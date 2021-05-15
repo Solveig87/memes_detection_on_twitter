@@ -14,7 +14,19 @@ Le script prend deux arguments :
 
 ## Filtrage des tweets collectés
 
-Le script *detect_candidates.py* effectue deux filtrages successifs sur les tweets collectés via le script précédent.
+Le script *detect_candidates.py* effectue deux filtrages successifs sur les tweets collectés via le script précédent :
+- le premier filtrage associé à un mème les tweets qui possèdent un minimum de mots communs avec lui (à définir dans les paramètres)
+- le second filtrage ne garde les tweets associés à un mème par le premier filtrage que si au moins l'un d'eux a une distance de Bray-Curtis inférieure à un certain seuil (défini dans les paramètres) : la distance est calculé entre des vecteurs de ngrams (dont la taille est également à définir dans les paramètres).
+
+Les résultats sont conservés dans un fichier json ainsi que dans un fichier HTML pour la visualisation.
+
+Le script prend six arguments :
+- le fichier json comprenant les mèmes à rechercher (par défaut *data/seeds/memes_seed.json*) : à faire précéder de ```-s```
+- le corpus de tweets à analyser (un fichier json ou un répertoire, par défaut *data/tweets_collectes/corpus_2021-05-10_0.json*) : à faire précéder de ```-d```
+- l'intersection minimale (pourcentage de mots communs) pour qu'un tweet soit considéré comme associé à un mème (par défaut **0.66**) : à faire précéder de ```-i```
+- distance de Bray-Curtis maximum entre un tweet et le mème auquel il est associé pour que les tweets associés à ce mème soient conservés dans les fichiers de résultats (par défaut **0.9**) : à faire précéder de ```-t```
+- tailles minimale et maximale des ngrams pour les vecteurs à comparer (par défaut **5, 11**) : à faire précéder de ```-n```
+- type de tokens pour la vectorisation (*char*, *char_wb* ou *word*, par défaut **char**) : à faire précéder de ```-a```
 
 
 #### Organisarion du repo
