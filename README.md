@@ -6,7 +6,7 @@
 
 ## Collecte des tweets avec la librairie Tweepy
 
-Avant de lancer le script *extract_tweets_KW*, il faudra compléter le fichier *.env* avec vos clés et tokens Twitter. Si vous n'en disposez pas, il suffit de créer un projet sur le portail développeurs de Twitter afin de les générer automatiquement.
+Avant de lancer le script *extract_tweets_KW*, il faudra copier en local le fichier *.env.bak*, le renommer en *.env* et le compléter avec vos clés et tokens Twitter. Si vous n'en disposez pas, il suffit de créer un projet sur le portail développeurs de Twitter afin de les générer automatiquement.
 Le script prend deux arguments :
 - un fichier json comprenant la liste des recherches à effectuer sur Twitter (correspondant chacune à un mème recherché) avec pour chacune la date de la dernière collecte de tweets effectuée (par défaut *data/log_data/already_extracted.json*) : à faire précéder de ```-q```
 - un fichier json comprenant la liste des id des tweets déjà collectés (par défaut *data/log_data/already_done_tweets.json*) : à faire précéder de ```-t```

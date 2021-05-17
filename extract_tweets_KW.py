@@ -93,8 +93,8 @@ print("Already Done(II):", len(already_done))
 dic_extracted[Q]=date_str
 
 """Mise à jour des inputs"""
-write_file("data/log_data/already_extracted.json", dic_extracted, is_json = True)
-write_file("data/log_data/already_done_tweets.json", json.dumps(already_done))
+write_file(options.queries, dic_extracted, is_json = True)
+write_file(options.tweets_id, json.dumps(already_done))
 
 msg =  "got %i tweets"%len(L)
 write_log("data/log_data/extract.log", msg)
