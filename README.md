@@ -1,4 +1,4 @@
-# Détection de mème sur Twitter
+# Détection de mèmes sur Twitter
 
 **Projet effectué dans le cadre d'un stage de M2 TAL au sein du laboratoire STIH à la Sorbonne**
 
