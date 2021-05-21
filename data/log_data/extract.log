@@ -127,3 +127,1507 @@
 2021-05-10T17:21:31.171209 : got 21 tweets
 2021-05-10T17:21:31.177131 : data/tweets_collectes/corpus_2021-05-10_3.json
 2021-05-10T17:21:31.178733 : ==== END ====
+2021-05-17T10:32:52.152875 : ----START----
+2021-05-17T10:32:52.155795 : ('Already Done (I) :', 3122)
+2021-05-17T10:32:52.157729 : : "c'est aussi chez vous"
+2021-05-17T10:32:52.677769 : Twitter error response: status code = 401
+2021-05-17T10:32:52.686649 : : "c'est tout compris"
+2021-05-17T10:32:52.917424 : Twitter error response: status code = 401
+2021-05-17T10:32:52.936301 : : "c'est vous"
+2021-05-17T10:32:53.179626 : Twitter error response: status code = 401
+2021-05-17T10:32:53.188648 : : "de vous et pour vous"
+2021-05-17T10:32:53.485071 : Twitter error response: status code = 401
+2021-05-17T10:32:53.492622 : : "elles ont tout pour elles"
+2021-05-17T10:32:53.737485 : Twitter error response: status code = 401
+2021-05-17T10:32:53.744967 : : "entre toi et moi"
+2021-05-17T10:32:53.992533 : Twitter error response: status code = 401
+2021-05-17T10:32:53.998722 : : "les uns les autres"
+2021-05-17T10:32:54.230614 : Twitter error response: status code = 401
+2021-05-17T10:32:54.283083 : : "n'importe où" "mais pas n'importe comment"
+2021-05-17T10:32:54.508017 : Twitter error response: status code = 401
+2021-05-17T10:32:54.514451 : : "on fait quoi pour vous aujourd'hui"
+2021-05-17T10:32:54.755402 : Twitter error response: status code = 401
+2021-05-17T10:32:54.759565 : : "on va de l'avant"
+2021-05-17T10:32:54.989216 : Twitter error response: status code = 401
+2021-05-17T10:32:54.996048 : : "plus proche de vous"
+2021-05-17T10:32:55.225277 : Twitter error response: status code = 401
+2021-05-17T10:32:55.232130 : : "pour moi et pour toi"
+2021-05-17T10:32:55.470887 : Twitter error response: status code = 401
+2021-05-17T10:32:55.477018 : : "proche de tout" "proche de vous"
+2021-05-17T10:32:55.716093 : Twitter error response: status code = 401
+2021-05-17T10:32:55.723052 : : "tellement proche de vous"
+2021-05-17T10:32:55.963762 : Twitter error response: status code = 401
+2021-05-17T10:32:55.970303 : : "toujours là pour moi"
+2021-05-17T10:32:56.213825 : Twitter error response: status code = 401
+2021-05-17T10:32:56.220930 : : "toujours là pour vous"
+2021-05-17T10:32:56.459972 : Twitter error response: status code = 401
+2021-05-17T10:32:56.466310 : : "vous d'abord"
+2021-05-17T10:32:56.709036 : Twitter error response: status code = 401
+2021-05-17T10:32:56.715715 : : "à deux pas" "tout est là"
+2021-05-17T10:32:56.958056 : Twitter error response: status code = 401
+2021-05-17T10:32:56.964325 : :"Hasta la vista"
+2021-05-17T10:32:57.195543 : Twitter error response: status code = 401
+2021-05-17T10:32:57.201391 : :"Liberté, égalité"
+2021-05-17T10:32:57.455663 : Twitter error response: status code = 401
+2021-05-17T10:32:57.462787 : :"Yes we"
+2021-05-17T10:32:57.699233 : Twitter error response: status code = 401
+2021-05-17T10:32:57.706870 : :"c'est mourir un peu"
+2021-05-17T10:32:57.942147 : Twitter error response: status code = 401
+2021-05-17T10:32:57.947468 : :"damnés de la terre"
+2021-05-17T10:32:58.180425 : Twitter error response: status code = 401
+2021-05-17T10:32:58.186580 : :"est le nouveau"
+2021-05-17T10:32:58.414946 : Twitter error response: status code = 401
+2021-05-17T10:32:58.422250 : :"est-ce que tu"
+2021-05-17T10:32:58.656039 : Twitter error response: status code = 401
+2021-05-17T10:32:58.668273 : :"il faut choisir"
+2021-05-17T10:32:58.900573 : Twitter error response: status code = 401
+2021-05-17T10:32:58.906781 : :"is the new"
+2021-05-17T10:32:59.144798 : Twitter error response: status code = 401
+2021-05-17T10:32:59.151553 : :"make the planet" again
+2021-05-17T10:32:59.399892 : Twitter error response: status code = 401
+2021-05-17T10:32:59.407118 : :"manger chinois ou"
+2021-05-17T10:32:59.632924 : Twitter error response: status code = 401
+2021-05-17T10:32:59.641134 : :"m’a tuer"
+2021-05-17T10:32:59.882358 : Twitter error response: status code = 401
+2021-05-17T10:32:59.888227 : :"toute la misère du monde"
+2021-05-17T10:33:00.122706 : Twitter error response: status code = 401
+2021-05-17T10:33:00.128917 : :"tu pousses le bouchon"
+2021-05-17T10:33:00.363591 : Twitter error response: status code = 401
+2021-05-17T10:33:00.371411 : :"vers l'infini et"
+2021-05-17T10:33:00.623338 : Twitter error response: status code = 401
+2021-05-17T10:33:00.629635 : :"à la vie, à"
+2021-05-17T10:33:00.866503 : Twitter error response: status code = 401
+2021-05-17T10:33:00.873301 : :100 musique français
+2021-05-17T10:33:01.121055 : Twitter error response: status code = 401
+2021-05-17T10:33:01.127035 : :100 pro 100 pneu
+2021-05-17T10:33:01.355954 : Twitter error response: status code = 401
+2021-05-17T10:33:01.362556 : :100 soleil
+2021-05-17T10:33:01.595161 : Twitter error response: status code = 401
+2021-05-17T10:33:01.601612 : :118 712 répondre vite bien
+2021-05-17T10:33:01.886366 : Twitter error response: status code = 401
+2021-05-17T10:33:01.893318 : :130 an innovation
+2021-05-17T10:33:02.127570 : Twitter error response: status code = 401
+2021-05-17T10:33:02.133936 : :2 m rassemble
+2021-05-17T10:33:02.353272 : Twitter error response: status code = 401
+2021-05-17T10:33:02.360124 : :2 passion
+2021-05-17T10:33:02.596589 : Twitter error response: status code = 401
+2021-05-17T10:33:02.611735 : :20 an cultiver différence
+2021-05-17T10:33:02.858300 : Twitter error response: status code = 401
+2021-05-17T10:33:02.865150 : :20 minute second
+2021-05-17T10:33:03.098434 : Twitter error response: status code = 401
+2021-05-17T10:33:03.105204 : :360 degré bonheur
+2021-05-17T10:33:03.351744 : Twitter error response: status code = 401
+2021-05-17T10:33:03.358454 : :3d for the real world
+2021-05-17T10:33:03.592053 : Twitter error response: status code = 401
+2021-05-17T10:33:03.598763 : :4 fois ensemble
+2021-05-17T10:33:03.831349 : Twitter error response: status code = 401
+2021-05-17T10:33:03.837958 : :abonné sfr simple numéro "parce qu'un" "n'est pas qu'un"
+2021-05-17T10:33:04.071425 : Twitter error response: status code = 401
+2021-05-17T10:33:04.077946 : :abri avance
+2021-05-17T10:33:04.305617 : Twitter error response: status code = 401
+2021-05-17T10:33:04.311892 : :absorber "pas à peu près"
+2021-05-17T10:33:04.544020 : Twitter error response: status code = 401
+2021-05-17T10:33:04.551420 : :accelerating the pace of engineering and science
+2021-05-17T10:33:04.784297 : Twitter error response: status code = 401
+2021-05-17T10:33:04.790778 : :accent divertissement
+2021-05-17T10:33:05.033323 : Twitter error response: status code = 401
+2021-05-17T10:33:05.039186 : :accent mode accent prix
+2021-05-17T10:33:05.291793 : Twitter error response: status code = 401
+2021-05-17T10:33:05.300491 : :accepter partout avoir besoin "où vous en"
+2021-05-17T10:33:05.537052 : Twitter error response: status code = 401
+2021-05-17T10:33:05.542714 : :accro micro
+2021-05-17T10:33:05.776560 : Twitter error response: status code = 401
+2021-05-17T10:33:05.783071 : :accélérateur carrière
+2021-05-17T10:33:06.013904 : Twitter error response: status code = 401
+2021-05-17T10:33:06.021334 : :accélérer "et tout s'"
+2021-05-17T10:33:06.254189 : Twitter error response: status code = 401
+2021-05-17T10:33:06.260348 : :achat cash prix
+2021-05-17T10:33:06.480479 : Twitter error response: status code = 401
+2021-05-17T10:33:06.486711 : :achat vente garanti
+2021-05-17T10:33:06.728804 : Twitter error response: status code = 401
+2021-05-17T10:33:06.737545 : :acheter bureau devenir facile
+2021-05-17T10:33:06.979943 : Twitter error response: status code = 401
+2021-05-17T10:33:06.986387 : :actif intérieur voir extérieur "et ça se"
+2021-05-17T10:33:07.226518 : Twitter error response: status code = 401
+2021-05-17T10:33:07.232869 : :actimel renforcer défense naturel
+2021-05-17T10:33:07.464389 : Twitter error response: status code = 401
+2021-05-17T10:33:07.470045 : :addicted to lover
+2021-05-17T10:33:07.703527 : Twitter error response: status code = 401
+2021-05-17T10:33:07.710393 : :additionner force multiplier chance
+2021-05-17T10:33:07.944729 : Twitter error response: status code = 401
+2021-05-17T10:33:07.953993 : :adhérer "on ne peut qu'"
+2021-05-17T10:33:08.188656 : Twitter error response: status code = 401
+2021-05-17T10:33:08.194935 : :affaire bon sens "c'est une"
+2021-05-17T10:33:08.431409 : Twitter error response: status code = 401
+2021-05-17T10:33:08.437725 : :affaire chien
+2021-05-17T10:33:08.663626 : Twitter error response: status code = 401
+2021-05-17T10:33:08.670543 : :affaire or
+2021-05-17T10:33:08.914912 : Twitter error response: status code = 401
+2021-05-17T10:33:08.922391 : :afficher couleur
+2021-05-17T10:33:09.198962 : Twitter error response: status code = 401
+2021-05-17T10:33:09.205795 : :agir logement
+2021-05-17T10:33:09.448575 : Twitter error response: status code = 401
+2021-05-17T10:33:09.455592 : :agir naturellement santé
+2021-05-17T10:33:09.682909 : Twitter error response: status code = 401
+2021-05-17T10:33:09.689455 : :agitateur curiosité
+2021-05-17T10:33:09.930153 : Twitter error response: status code = 401
+2021-05-17T10:33:09.936842 : :agriculture biodynamique
+2021-05-17T10:33:10.170359 : Twitter error response: status code = 401
+2021-05-17T10:33:10.176792 : :aider défense naturel
+2021-05-17T10:33:11.034249 : Twitter error response: status code = 401
+2021-05-17T10:33:11.046645 : :aider mobilité
+2021-05-17T10:33:11.278239 : Twitter error response: status code = 401
+2021-05-17T10:33:11.282806 : :aile humanitaire
+2021-05-17T10:33:11.502550 : Twitter error response: status code = 401
+2021-05-17T10:33:11.508677 : :aile maroc
+2021-05-17T10:33:11.747712 : Twitter error response: status code = 401
+2021-05-17T10:33:11.755802 : :aime "c'est pour ça qu'on l'"
+2021-05-17T10:33:12.000390 : Twitter error response: status code = 401
+2021-05-17T10:33:12.006827 : :aime "c'est toi que j'"
+2021-05-17T10:33:12.247279 : Twitter error response: status code = 401
+2021-05-17T10:33:12.253959 : :aime "c'est tout ce que j'"
+2021-05-17T10:33:12.634498 : Twitter error response: status code = 401
+2021-05-17T10:33:12.641413 : :aime condo
+2021-05-17T10:33:12.878054 : Twitter error response: status code = 401
+2021-05-17T10:33:12.885504 : :aime faire gagner
+2021-05-17T10:33:13.121365 : Twitter error response: status code = 401
+2021-05-17T10:33:13.128130 : :aime jamais trop "on n'en fait"
+2021-05-17T10:33:13.364236 : Twitter error response: status code = 401
+2021-05-17T10:33:13.370102 : :aime prix
+2021-05-17T10:33:13.604749 : Twitter error response: status code = 401
+2021-05-17T10:33:13.611416 : :aimer action "pour ceux qui"
+2021-05-17T10:33:13.856728 : Twitter error response: status code = 401
+2021-05-17T10:33:13.861137 : :aimer aime "comme il vous"
+2021-05-17T10:33:14.075865 : Twitter error response: status code = 401
+2021-05-17T10:33:14.082180 : :aimer aime "la une vous"
+2021-05-17T10:33:14.307218 : Twitter error response: status code = 401
+2021-05-17T10:33:14.314086 : :aimer dormir jouer
+2021-05-17T10:33:14.553443 : Twitter error response: status code = 401
+2021-05-17T10:33:14.562334 : :aimer déjà
+2021-05-17T10:33:14.792753 : Twitter error response: status code = 401
+2021-05-17T10:33:14.797312 : :aimer lave vaissell
+2021-05-17T10:33:15.039209 : Twitter error response: status code = 401
+2021-05-17T10:33:15.045050 : :aimer vie
+2021-05-17T10:33:15.270082 : Twitter error response: status code = 401
+2021-05-17T10:33:15.277257 : :air large rendre banque "et si l'"
+2021-05-17T10:33:15.511394 : Twitter error response: status code = 401
+2021-05-17T10:33:15.564894 : :air vie
+2021-05-17T10:33:15.805497 : Twitter error response: status code = 401
+2021-05-17T10:33:15.812488 : :air vif france 2
+2021-05-17T10:33:16.051043 : Twitter error response: status code = 401
+2021-05-17T10:33:16.057656 : :alchimie botanique futur
+2021-05-17T10:33:16.308155 : Twitter error response: status code = 401
+2021-05-17T10:33:16.312699 : :alcool fête fou
+2021-05-17T10:33:16.531262 : Twitter error response: status code = 401
+2021-05-17T10:33:16.536398 : :alice clair
+2021-05-17T10:33:16.770860 : Twitter error response: status code = 401
+2021-05-17T10:33:16.778358 : :all american food
+2021-05-17T10:33:17.027283 : Twitter error response: status code = 401
+2021-05-17T10:33:17.034458 : :all for you
+2021-05-17T10:33:17.269614 : Twitter error response: status code = 401
+2021-05-17T10:33:17.276569 : :all is in the mix
+2021-05-17T10:33:17.516343 : Twitter error response: status code = 401
+2021-05-17T10:33:17.523521 : :all time classic
+2021-05-17T10:33:17.753122 : Twitter error response: status code = 401
+2021-05-17T10:33:17.760000 : :all together now
+2021-05-17T10:33:17.994787 : Twitter error response: status code = 401
+2021-05-17T10:33:18.002539 : :aller adorer
+2021-05-17T10:33:18.244447 : Twitter error response: status code = 401
+2021-05-17T10:33:18.296065 : :aller adorer rentrer
+2021-05-17T10:33:18.523064 : Twitter error response: status code = 401
+2021-05-17T10:33:18.529517 : :aller aimer
+2021-05-17T10:33:18.760246 : Twitter error response: status code = 401
+2021-05-17T10:33:18.767135 : :aller aimer hard discount
+2021-05-17T10:33:19.010182 : Twitter error response: status code = 401
+2021-05-17T10:33:19.017619 : :aller bien ici
+2021-05-17T10:33:19.241588 : Twitter error response: status code = 401
+2021-05-17T10:33:19.248032 : :aller do ré
+2021-05-17T10:33:19.480376 : Twitter error response: status code = 401
+2021-05-17T10:33:19.487806 : :aller faire merveille
+2021-05-17T10:33:19.721679 : Twitter error response: status code = 401
+2021-05-17T10:33:19.740235 : :aller loin
+2021-05-17T10:33:19.963895 : Twitter error response: status code = 401
+2021-05-17T10:33:19.970421 : :allié avenir
+2021-05-17T10:33:20.195519 : Twitter error response: status code = 401
+2021-05-17T10:33:20.201959 : :allié contre toux
+2021-05-17T10:33:20.440771 : Twitter error response: status code = 401
+2021-05-17T10:33:20.447539 : :allié vie artiste
+2021-05-17T10:33:20.687774 : Twitter error response: status code = 401
+2021-05-17T10:33:20.694780 : :alsacez vous
+2021-05-17T10:33:20.926707 : Twitter error response: status code = 401
+2021-05-17T10:33:20.933237 : :aluminium échelle humain
+2021-05-17T10:33:21.174659 : Twitter error response: status code = 401
+2021-05-17T10:33:21.181710 : :always learning
+2021-05-17T10:33:21.418614 : Twitter error response: status code = 401
+2021-05-17T10:33:21.427005 : :always so good for so little
+2021-05-17T10:33:21.660101 : Twitter error response: status code = 401
+2021-05-17T10:33:21.667607 : :always with you
+2021-05-17T10:33:21.900653 : Twitter error response: status code = 401
+2021-05-17T10:33:21.906933 : :am electric
+2021-05-17T10:33:22.137964 : Twitter error response: status code = 401
+2021-05-17T10:33:22.144608 : :am what am
+2021-05-17T10:33:22.381852 : Twitter error response: status code = 401
+2021-05-17T10:33:22.388120 : :ambition partager
+2021-05-17T10:33:22.639716 : Twitter error response: status code = 401
+2021-05-17T10:33:22.646256 : :amener loin
+2021-05-17T10:33:22.877307 : Twitter error response: status code = 401
+2021-05-17T10:33:22.881712 : :america runs dunkin
+2021-05-17T10:33:23.117474 : Twitter error response: status code = 401
+2021-05-17T10:33:23.125601 : :america' s energy start here
+2021-05-17T10:33:23.356519 : Twitter error response: status code = 401
+2021-05-17T10:33:23.363968 : :america' s most convenier bank
+2021-05-17T10:33:23.602537 : Twitter error response: status code = 401
+2021-05-17T10:33:23.608872 : :america' s switch
+2021-05-17T10:33:23.848393 : Twitter error response: status code = 401
+2021-05-17T10:33:23.855925 : :ami ami
+2021-05-17T10:33:24.094024 : Twitter error response: status code = 401
+2021-05-17T10:33:24.100533 : :ami net
+2021-05-17T10:33:24.343554 : Twitter error response: status code = 401
+2021-05-17T10:33:24.350703 : :ami petit-déjeuner
+2021-05-17T10:33:24.586514 : Twitter error response: status code = 401
+2021-05-17T10:33:24.593878 : :ami prendre curly "si t'as pas d'"
+2021-05-17T10:33:24.829361 : Twitter error response: status code = 401
+2021-05-17T10:33:24.836633 : :amour "de l'autre"
+2021-05-17T10:33:25.070278 : Twitter error response: status code = 401
+2021-05-17T10:33:25.077287 : :amour 2 grand i.
+2021-05-17T10:33:25.305746 : Twitter error response: status code = 401
+2021-05-17T10:33:25.312425 : :amour bois
+2021-05-17T10:33:25.547566 : Twitter error response: status code = 401
+2021-05-17T10:33:25.554950 : :amour goût
+2021-05-17T10:33:25.785175 : Twitter error response: status code = 401
+2021-05-17T10:33:25.791682 : :amour goût vrai
+2021-05-17T10:33:26.027788 : Twitter error response: status code = 401
+2021-05-17T10:33:26.034378 : :amour laine
+2021-05-17T10:33:26.270755 : Twitter error response: status code = 401
+2021-05-17T10:33:26.277118 : :amour sexe
+2021-05-17T10:33:26.520713 : Twitter error response: status code = 401
+2021-05-17T10:33:26.526992 : :amour table autour "et des gens"
+2021-05-17T10:33:26.765345 : Twitter error response: status code = 401
+2021-05-17T10:33:26.774341 : :amour viande
+2021-05-17T10:33:27.011845 : Twitter error response: status code = 401
+2021-05-17T10:33:27.019206 : :amoureux sommeil "pour tous les"
+2021-05-17T10:33:27.259829 : Twitter error response: status code = 401
+2021-05-17T10:33:27.267161 : :amuser trop trop sérieux
+2021-05-17T10:33:27.499100 : Twitter error response: status code = 401
+2021-05-17T10:33:27.508798 : :améliorer banque
+2021-05-17T10:33:27.741009 : Twitter error response: status code = 401
+2021-05-17T10:33:27.748316 : :améliorer train quotidien
+2021-05-17T10:33:27.984591 : Twitter error response: status code = 401
+2021-05-17T10:33:27.991928 : :and you' r done
+2021-05-17T10:33:28.224505 : Twitter error response: status code = 401
+2021-05-17T10:33:28.231986 : :anima sana in corpore sano
+2021-05-17T10:33:28.784180 : Twitter error response: status code = 401
+2021-05-17T10:33:28.789393 : :animal "tout pour vos"
+2021-05-17T10:33:29.014959 : Twitter error response: status code = 401
+2021-05-17T10:33:29.023687 : :animal vivre aimer
+2021-05-17T10:33:29.269577 : Twitter error response: status code = 401
+2021-05-17T10:33:29.295085 : :annuaire internet région
+2021-05-17T10:33:29.530513 : Twitter error response: status code = 401
+2021-05-17T10:33:29.538107 : :answers for industry
+2021-05-17T10:33:29.765110 : Twitter error response: status code = 401
+2021-05-17T10:33:29.771659 : :anticiper innovation
+2021-05-17T10:33:30.008008 : Twitter error response: status code = 401
+2021-05-17T10:33:30.015472 : :anything is
+2021-05-17T10:33:30.250006 : Twitter error response: status code = 401
+2021-05-17T10:33:30.257754 : :appeler monde cher
+2021-05-17T10:33:30.491829 : Twitter error response: status code = 401
+2021-05-17T10:33:30.502464 : :apporter essentiel vie
+2021-05-17T10:33:30.728652 : Twitter error response: status code = 401
+2021-05-17T10:33:30.737933 : :apprendre oser
+2021-05-17T10:33:30.969402 : Twitter error response: status code = 401
+2021-05-17T10:33:30.975982 : :apéricube déclare apéritif
+2021-05-17T10:33:31.208570 : Twitter error response: status code = 401
+2021-05-17T10:33:31.215366 : :apéritif renommée mondial
+2021-05-17T10:33:31.447559 : Twitter error response: status code = 401
+2021-05-17T10:33:31.453519 : :archipel caractère
+2021-05-17T10:33:31.685127 : Twitter error response: status code = 401
+2021-05-17T10:33:31.692254 : :architect of an internet world
+2021-05-17T10:33:31.925739 : Twitter error response: status code = 401
+2021-05-17T10:33:31.933309 : :architect of an open world
+2021-05-17T10:33:32.165774 : Twitter error response: status code = 401
+2021-05-17T10:33:32.172540 : :architecte enfant
+2021-05-17T10:33:32.411918 : Twitter error response: status code = 401
+2021-05-17T10:33:32.418770 : :architecture made simple
+2021-05-17T10:33:32.656135 : Twitter error response: status code = 401
+2021-05-17T10:33:32.662019 : :are you alive
+2021-05-17T10:33:32.893998 : Twitter error response: status code = 401
+2021-05-17T10:33:32.900786 : :argent "plus pour votre"
+2021-05-17T10:33:33.137433 : Twitter error response: status code = 401
+2021-05-17T10:33:33.157641 : :argent heureux "là où votre"
+2021-05-17T10:33:33.388769 : Twitter error response: status code = 401
+2021-05-17T10:33:33.403375 : :ariel merveille
+2021-05-17T10:33:33.631291 : Twitter error response: status code = 401
+2021-05-17T10:33:33.647076 : :arrêter manger merde
+2021-05-17T10:33:33.883650 : Twitter error response: status code = 401
+2021-05-17T10:33:33.891210 : :arrêter régime commencer weight watcher
+2021-05-17T10:33:34.134917 : Twitter error response: status code = 401
+2021-05-17T10:33:34.144423 : :art aimer
+2021-05-17T10:33:34.390496 : Twitter error response: status code = 401
+2021-05-17T10:33:34.402478 : :art divertir
+2021-05-17T10:33:34.633072 : Twitter error response: status code = 401
+2021-05-17T10:33:34.657915 : :art manière
+2021-05-17T10:33:34.910084 : Twitter error response: status code = 401
+2021-05-17T10:33:34.917431 : :art plaire "une façon d'être"
+2021-05-17T10:33:35.149546 : Twitter error response: status code = 401
+2021-05-17T10:33:35.154605 : :art unique
+2021-05-17T10:33:35.373844 : Twitter error response: status code = 401
+2021-05-17T10:33:35.379234 : :artisan bien-être
+2021-05-17T10:33:35.608913 : Twitter error response: status code = 401
+2021-05-17T10:33:35.625460 : :artisan rêve
+2021-05-17T10:33:35.858064 : Twitter error response: status code = 401
+2021-05-17T10:33:35.864328 : :artisanat bâtiment
+2021-05-17T10:33:36.097794 : Twitter error response: status code = 401
+2021-05-17T10:33:36.104682 : :aspirateur perdre aspiration
+2021-05-17T10:33:36.324425 : Twitter error response: status code = 401
+2021-05-17T10:33:36.330773 : :assurance "c'était comment l'"
+2021-05-17T10:33:36.579415 : Twitter error response: status code = 401
+2021-05-17T10:33:36.587970 : :assurance auto résilier so malus assure
+2021-05-17T10:33:36.841498 : Twitter error response: status code = 401
+2021-05-17T10:33:36.846127 : :assurance bien voyager
+2021-05-17T10:33:37.069594 : Twitter error response: status code = 401
+2021-05-17T10:33:37.091329 : :assurance gagner
+2021-05-17T10:33:37.319008 : Twitter error response: status code = 401
+2021-05-17T10:33:37.371106 : :assurance gagner santé "qui me fait"
+2021-05-17T10:33:37.601881 : Twitter error response: status code = 401
+2021-05-17T10:33:37.610214 : :assurance santé garantir mal tête
+2021-05-17T10:33:37.846890 : Twitter error response: status code = 401
+2021-05-17T10:33:37.854528 : :assurance simplifier
+2021-05-17T10:33:38.079716 : Twitter error response: status code = 401
+2021-05-17T10:33:38.086117 : :assurance téléphone
+2021-05-17T10:33:38.325805 : Twitter error response: status code = 401
+2021-05-17T10:33:38.332619 : :assurer avancer
+2021-05-17T10:33:38.569885 : Twitter error response: status code = 401
+2021-05-17T10:33:38.589908 : :assurer avenir
+2021-05-17T10:33:38.828055 : Twitter error response: status code = 401
+2021-05-17T10:33:38.834641 : :assureur militant
+2021-05-17T10:33:39.076051 : Twitter error response: status code = 401
+2021-05-17T10:33:39.082719 : :assurément humain
+2021-05-17T10:33:39.313393 : Twitter error response: status code = 401
+2021-05-17T10:33:39.316570 : :at the heart of the image.mettez nikon vie "un peu de"
+2021-05-17T10:33:39.540819 : Twitter error response: status code = 401
+2021-05-17T10:33:39.547581 : :at your sid
+2021-05-17T10:33:39.772512 : Twitter error response: status code = 401
+2021-05-17T10:33:39.779548 : :au-delà convention
+2021-05-17T10:33:40.006933 : Twitter error response: status code = 401
+2021-05-17T10:33:40.016050 : :au-delà performance
+2021-05-17T10:33:40.237211 : Twitter error response: status code = 401
+2021-05-17T10:33:40.267514 : :au-delà temps mode
+2021-05-17T10:33:40.504928 : Twitter error response: status code = 401
+2021-05-17T10:33:40.511288 : :aucy envie "si c'est d'" "j'en ai"
+2021-05-17T10:33:40.759714 : Twitter error response: status code = 401
+2021-05-17T10:33:40.766847 : :aucy y "si c'est d'"
+2021-05-17T10:33:40.998918 : Twitter error response: status code = 401
+2021-05-17T10:33:41.005365 : :australie nul part ailleurs
+2021-05-17T10:33:41.228901 : Twitter error response: status code = 401
+2021-05-17T10:33:41.236070 : :auto emociòn
+2021-05-17T10:33:41.466921 : Twitter error response: status code = 401
+2021-05-17T10:33:41.469320 : :avance envie
+2021-05-17T10:33:41.686458 : Twitter error response: status code = 401
+2021-05-17T10:33:41.691774 : :avance technologie
+2021-05-17T10:33:41.919791 : Twitter error response: status code = 401
+2021-05-17T10:33:41.922705 : :avancer assurer
+2021-05-17T10:33:42.143959 : Twitter error response: status code = 401
+2021-05-17T10:33:42.151327 : :avancer avancer
+2021-05-17T10:33:42.390620 : Twitter error response: status code = 401
+2021-05-17T10:33:42.404658 : :avancer beauté
+2021-05-17T10:33:42.636903 : Twitter error response: status code = 401
+2021-05-17T10:33:42.648251 : :avancer ensemble
+2021-05-17T10:33:42.891486 : Twitter error response: status code = 401
+2021-05-17T10:33:42.895657 : :avancer imagination
+2021-05-17T10:33:43.128171 : Twitter error response: status code = 401
+2021-05-17T10:33:43.132897 : :avancer jamais rien lâcher
+2021-05-17T10:33:43.355852 : Twitter error response: status code = 401
+2021-05-17T10:33:43.370115 : :avançon collectif
+2021-05-17T10:33:43.602912 : Twitter error response: status code = 401
+2021-05-17T10:33:43.615707 : :avenir "est à moi"
+2021-05-17T10:33:43.836815 : Twitter error response: status code = 401
+2021-05-17T10:33:43.843704 : :avenir appartenir
+2021-05-17T10:33:44.073604 : Twitter error response: status code = 401
+2021-05-17T10:33:44.081760 : :avenir choix jours.automobile "de tous les"
+2021-05-17T10:33:44.313783 : Twitter error response: status code = 401
+2021-05-17T10:33:44.321949 : :avenir commencer ici
+2021-05-17T10:33:44.561484 : Twitter error response: status code = 401
+2021-05-17T10:33:44.569719 : :avenir féminin
+2021-05-17T10:33:44.788607 : Twitter error response: status code = 401
+2021-05-17T10:33:44.817875 : :avenir génie
+2021-05-17T10:33:45.028632 : Twitter error response: status code = 401
+2021-05-17T10:33:45.032895 : :avenir valeur sûr
+2021-05-17T10:33:45.253587 : Twitter error response: status code = 401
+2021-05-17T10:33:45.257568 : :avenir écrire "c'est à vous de l'"
+2021-05-17T10:33:45.482344 : Twitter error response: status code = 401
+2021-05-17T10:33:45.487240 : :aventure aime
+2021-05-17T10:33:45.716352 : Twitter error response: status code = 401
+2021-05-17T10:33:45.721589 : :aventure humain
+2021-05-17T10:33:45.941926 : Twitter error response: status code = 401
+2021-05-17T10:33:45.948792 : :aventure terre
+2021-05-17T10:33:46.182428 : Twitter error response: status code = 401
+2021-05-17T10:33:46.188399 : :avion malin
+2021-05-17T10:33:46.413875 : Twitter error response: status code = 401
+2021-05-17T10:33:46.419442 : :avoir ambition heureux
+2021-05-17T10:33:46.653118 : Twitter error response: status code = 401
+2021-05-17T10:33:46.658987 : :avoir choix
+2021-05-17T10:33:46.895572 : Twitter error response: status code = 401
+2021-05-17T10:33:46.902376 : :avoir chose vivre
+2021-05-17T10:33:47.138056 : Twitter error response: status code = 401
+2021-05-17T10:33:47.146860 : :avoir droit vrai banque
+2021-05-17T10:33:47.378617 : Twitter error response: status code = 401
+2021-05-17T10:33:47.384938 : :avoir finir aimer chèvre
+2021-05-17T10:33:47.620112 : Twitter error response: status code = 401
+2021-05-17T10:33:47.626373 : :avoir jamais télé "été aussi près de la"
+2021-05-17T10:33:47.862038 : Twitter error response: status code = 401
+2021-05-17T10:33:47.866774 : :avoir priorité
+2021-05-17T10:33:48.094549 : Twitter error response: status code = 401
+2021-05-17T10:33:48.100901 : :avouer payant "que c'est"
+2021-05-17T10:33:48.336905 : Twitter error response: status code = 401
+2021-05-17T10:33:48.341813 : :back to basics
+2021-05-17T10:33:48.565613 : Twitter error response: status code = 401
+2021-05-17T10:33:48.575666 : :baisser coût rénovation
+2021-05-17T10:33:48.802439 : Twitter error response: status code = 401
+2021-05-17T10:33:48.810202 : :banca per mondo che cambia
+2021-05-17T10:33:49.030956 : Twitter error response: status code = 401
+2021-05-17T10:33:49.037518 : :bang dire adieu saleté
+2021-05-17T10:33:49.254964 : Twitter error response: status code = 401
+2021-05-17T10:33:49.262849 : :bank for your idea
+2021-05-17T10:33:49.507849 : Twitter error response: status code = 401
+2021-05-17T10:33:49.515022 : :banque "doit être comme ça"
+2021-05-17T10:33:49.745107 : Twitter error response: status code = 401
+2021-05-17T10:33:49.751504 : :banque "à qui parler"
+2021-05-17T10:33:49.989831 : Twitter error response: status code = 401
+2021-05-17T10:33:49.996315 : :banque agent secteur public
+2021-05-17T10:33:50.219014 : Twitter error response: status code = 401
+2021-05-17T10:33:50.227416 : :banque aider vivre mieux "et si une"
+2021-05-17T10:33:50.476199 : Twitter error response: status code = 401
+2021-05-17T10:33:50.482837 : :banque assurance monde changer
+2021-05-17T10:33:50.729312 : Twitter error response: status code = 401
+2021-05-17T10:33:50.735774 : :banque conseil guider
+2021-05-17T10:33:50.964194 : Twitter error response: status code = 401
+2021-05-17T10:33:50.967357 : :banque investisseur "de tous les"
+2021-05-17T10:33:51.187961 : Twitter error response: status code = 401
+2021-05-17T10:33:51.190928 : :banque ligne
+2021-05-17T10:33:51.406563 : Twitter error response: status code = 401
+2021-05-17T10:33:51.415275 : :banque ligne époque
+2021-05-17T10:33:51.660249 : Twitter error response: status code = 401
+2021-05-17T10:33:51.666569 : :banque monde changer
+2021-05-17T10:33:51.890925 : Twitter error response: status code = 401
+2021-05-17T10:33:51.895902 : :banque nouveau définition
+2021-05-17T10:33:52.102797 : Twitter error response: status code = 401
+2021-05-17T10:33:52.106153 : :banque partout monde
+2021-05-17T10:33:52.332558 : Twitter error response: status code = 401
+2021-05-17T10:33:52.340071 : :banque priver ligne
+2021-05-17T10:33:52.579092 : Twitter error response: status code = 401
+2021-05-17T10:33:52.585358 : :banquier "c'est moi"
+2021-05-17T10:33:52.820031 : Twitter error response: status code = 401
+2021-05-17T10:33:52.827044 : :barre "c'est de la"
+2021-05-17T10:33:53.061770 : Twitter error response: status code = 401
+2021-05-17T10:33:53.068178 : :barré "un pour tous"
+2021-05-17T10:33:53.311204 : Twitter error response: status code = 401
+2021-05-17T10:33:53.327903 : :basic is beautiful
+2021-05-17T10:33:53.557566 : Twitter error response: status code = 401
+2021-05-17T10:33:53.567353 : :battre "qui peut te"
+2021-05-17T10:33:53.790820 : Twitter error response: status code = 401
+2021-05-17T10:33:53.798329 : :be brillier together
+2021-05-17T10:33:54.034937 : Twitter error response: status code = 401
+2021-05-17T10:33:54.047503 : :be first
+2021-05-17T10:33:54.277849 : Twitter error response: status code = 401
+2021-05-17T10:33:54.284512 : :be free
+2021-05-17T10:33:54.524998 : Twitter error response: status code = 401
+2021-05-17T10:33:54.532409 : :be fresh
+2021-05-17T10:33:54.781843 : Twitter error response: status code = 401
+2021-05-17T10:33:54.788442 : :be happy be simply
+2021-05-17T10:33:55.026765 : Twitter error response: status code = 401
+2021-05-17T10:33:55.033063 : :be hero
+2021-05-17T10:33:55.281960 : Twitter error response: status code = 401
+2021-05-17T10:33:55.288290 : :be mini
+2021-05-17T10:33:55.529771 : Twitter error response: status code = 401
+2021-05-17T10:33:55.542132 : :be more tea
+2021-05-17T10:33:55.776460 : Twitter error response: status code = 401
+2021-05-17T10:33:55.783526 : :be sharp
+2021-05-17T10:33:56.017206 : Twitter error response: status code = 401
+2021-05-17T10:33:56.032936 : :be there
+2021-05-17T10:33:56.256938 : Twitter error response: status code = 401
+2021-05-17T10:33:56.259467 : :be what' s next
+2021-05-17T10:33:56.485549 : Twitter error response: status code = 401
+2021-05-17T10:33:56.493010 : :beal endroit bel histoire
+2021-05-17T10:33:56.730963 : Twitter error response: status code = 401
+2021-05-17T10:33:56.735186 : :beal résultat naturel
+2021-05-17T10:33:56.961693 : Twitter error response: status code = 401
+2021-05-17T10:33:56.964458 : :beau cadeau
+2021-05-17T10:33:57.189605 : Twitter error response: status code = 401
+2021-05-17T10:33:57.197776 : :beau chaud cher
+2021-05-17T10:33:57.421587 : Twitter error response: status code = 401
+2021-05-17T10:33:57.428412 : :beau dormir
+2021-05-17T10:33:57.671043 : Twitter error response: status code = 401
+2021-05-17T10:33:57.682758 : :beau océdar
+2021-05-17T10:33:57.924503 : Twitter error response: status code = 401
+2021-05-17T10:33:57.930993 : :beau projet "c'est le vôtre"
+2021-05-17T10:33:58.172348 : Twitter error response: status code = 401
+2021-05-17T10:33:58.178094 : :beau secret
+2021-05-17T10:33:58.405334 : Twitter error response: status code = 401
+2021-05-17T10:33:58.414544 : :beau vivre cogedim
+2021-05-17T10:33:58.656162 : Twitter error response: status code = 401
+2021-05-17T10:33:58.663449 : :beauoup loin itineri
+2021-05-17T10:33:58.906582 : Twitter error response: status code = 401
+2021-05-17T10:33:58.912957 : :beautiful user of space
+2021-05-17T10:33:59.146900 : Twitter error response: status code = 401
+2021-05-17T10:33:59.153815 : :beauty intelligence
+2021-05-17T10:33:59.392789 : Twitter error response: status code = 401
+2021-05-17T10:33:59.401643 : :beauté "elle est de toute"
+2021-05-17T10:33:59.619552 : Twitter error response: status code = 401
+2021-05-17T10:33:59.627712 : :beauté commencer
+2021-05-17T10:33:59.867088 : Twitter error response: status code = 401
+2021-05-17T10:33:59.873348 : :beauté libérer
+2021-05-17T10:34:00.109093 : Twitter error response: status code = 401
+2021-05-17T10:34:00.121427 : :beauté nivéa
+2021-05-17T10:34:00.360691 : Twitter error response: status code = 401
+2021-05-17T10:34:00.408194 : :beauté prix accessible
+2021-05-17T10:34:00.639037 : Twitter error response: status code = 401
+2021-05-17T10:34:00.644875 : :beauté ressemble
+2021-05-17T10:34:00.877136 : Twitter error response: status code = 401
+2021-05-17T10:34:00.884338 : :bel chanson français
+2021-05-17T10:34:01.121569 : Twitter error response: status code = 401
+2021-05-17T10:34:01.128932 : :bel idée déchet
+2021-05-17T10:34:01.373485 : Twitter error response: status code = 401
+2021-05-17T10:34:01.419635 : :bel invention argent
+2021-05-17T10:34:01.648060 : Twitter error response: status code = 401
+2021-05-17T10:34:01.655918 : :bel terre
+2021-05-17T10:34:01.871221 : Twitter error response: status code = 401
+2021-05-17T10:34:01.879946 : :bel vie "elle est pas"
+2021-05-17T10:34:02.110713 : Twitter error response: status code = 401
+2021-05-17T10:34:02.116678 : :bel vite
+2021-05-17T10:34:02.342652 : Twitter error response: status code = 401
+2021-05-17T10:34:02.346876 : :bel voir
+2021-05-17T10:34:02.574832 : Twitter error response: status code = 401
+2021-05-17T10:34:02.581483 : :bel émotion
+2021-05-17T10:34:02.806954 : Twitter error response: status code = 401
+2021-05-17T10:34:02.813265 : :believe in better
+2021-05-17T10:34:03.048307 : Twitter error response: status code = 401
+2021-05-17T10:34:03.052682 : :believe it
+2021-05-17T10:34:03.271621 : Twitter error response: status code = 401
+2021-05-17T10:34:03.278095 : :belong anywhere
+2021-05-17T10:34:03.508610 : Twitter error response: status code = 401
+2021-05-17T10:34:03.515046 : :benco démarrer plein pot
+2021-05-17T10:34:03.742435 : Twitter error response: status code = 401
+2021-05-17T10:34:03.746846 : :besoin pause lotu "on a tous"
+2021-05-17T10:34:03.974947 : Twitter error response: status code = 401
+2021-05-17T10:34:03.979622 : :best answer
+2021-05-17T10:34:04.254592 : Twitter error response: status code = 401
+2021-05-17T10:34:04.261502 : :best in print
+2021-05-17T10:34:04.506515 : Twitter error response: status code = 401
+2021-05-17T10:34:04.512335 : :better answers faster
+2021-05-17T10:34:04.749745 : Twitter error response: status code = 401
+2021-05-17T10:34:04.754857 : :better everyday
+2021-05-17T10:34:04.981190 : Twitter error response: status code = 401
+2021-05-17T10:34:04.986856 : :better faster stronger
+2021-05-17T10:34:05.205490 : Twitter error response: status code = 401
+2021-05-17T10:34:05.209997 : :better ingredient better pizza
+2021-05-17T10:34:05.435594 : Twitter error response: status code = 401
+2021-05-17T10:34:05.440171 : :better sound through research
+2021-05-17T10:34:05.676786 : Twitter error response: status code = 401
+2021-05-17T10:34:05.682175 : :better together
+2021-05-17T10:34:05.893647 : Twitter error response: status code = 401
+2021-05-17T10:34:05.896671 : :better tv better price
+2021-05-17T10:34:06.130406 : Twitter error response: status code = 401
+2021-05-17T10:34:06.134835 : :better work better life
+2021-05-17T10:34:06.359642 : Twitter error response: status code = 401
+2021-05-17T10:34:06.373405 : :biactol gagne confiance
+2021-05-17T10:34:06.611544 : Twitter error response: status code = 401
+2021-05-17T10:34:06.616028 : :bibus "en fait plus"
+2021-05-17T10:34:06.840538 : Twitter error response: status code = 401
+2021-05-17T10:34:06.869621 : :bic bien
+2021-05-17T10:34:07.130309 : Twitter error response: status code = 401
+2021-05-17T10:34:07.134585 : :bien "parce que c'est vous"
+2021-05-17T10:34:07.365795 : Twitter error response: status code = 401
+2021-05-17T10:34:07.372349 : :bien "plus pour vous"
+2021-05-17T10:34:07.594038 : Twitter error response: status code = 401
+2021-05-17T10:34:07.601589 : :bien "ça vous va"
+2021-05-17T10:34:07.833973 : Twitter error response: status code = 401
+2021-05-17T10:34:07.841854 : :bien achat "plus qu'un"
+2021-05-17T10:34:08.083705 : Twitter error response: status code = 401
+2021-05-17T10:34:08.101111 : :bien acheter bien manger
+2021-05-17T10:34:08.356279 : Twitter error response: status code = 401
+2021-05-17T10:34:08.362702 : :bien beau bosch
+2021-05-17T10:34:08.604490 : Twitter error response: status code = 401
+2021-05-17T10:34:08.613437 : :bien bien cher
+2021-05-17T10:34:08.866153 : Twitter error response: status code = 401
+2021-05-17T10:34:08.870685 : :bien chausser
+2021-05-17T10:34:09.091964 : Twitter error response: status code = 401
+2021-05-17T10:34:09.095295 : :bien commencer vie
+2021-05-17T10:34:09.309570 : Twitter error response: status code = 401
+2021-05-17T10:34:09.313696 : :bien déco "plus que de la"
+2021-05-17T10:34:09.546900 : Twitter error response: status code = 401
+2021-05-17T10:34:09.556213 : :bien ensemble
+2021-05-17T10:34:09.792857 : Twitter error response: status code = 401
+2021-05-17T10:34:09.796830 : :bien ensemble "on est si"
+2021-05-17T10:34:10.024562 : Twitter error response: status code = 401
+2021-05-17T10:34:10.031483 : :bien entendre
+2021-05-17T10:34:10.272468 : Twitter error response: status code = 401
+2021-05-17T10:34:10.278572 : :bien entouré
+2021-05-17T10:34:10.528620 : Twitter error response: status code = 401
+2021-05-17T10:34:10.536823 : :bien faire
+2021-05-17T10:34:10.770941 : Twitter error response: status code = 401
+2021-05-17T10:34:10.775563 : :bien frais
+2021-05-17T10:34:11.006092 : Twitter error response: status code = 401
+2021-05-17T10:34:11.010936 : :bien impression "plus que l'"
+2021-05-17T10:34:11.240882 : Twitter error response: status code = 401
+2021-05-17T10:34:11.247265 : :bien lefert mieux
+2021-05-17T10:34:11.493424 : Twitter error response: status code = 401
+2021-05-17T10:34:11.499892 : :bien mal "ça fait du" "là où ça fait"
+2021-05-17T10:34:11.765129 : Twitter error response: status code = 401
+2021-05-17T10:34:11.772250 : :bien manger début bonheur "c'est le"
+2021-05-17T10:34:12.010622 : Twitter error response: status code = 401
+2021-05-17T10:34:12.017849 : :bien manger luxe "n'est pas un"
+2021-05-17T10:34:12.251318 : Twitter error response: status code = 401
+2021-05-17T10:34:12.259057 : :bien manger plaisir partager
+2021-05-17T10:34:12.493414 : Twitter error response: status code = 401
+2021-05-17T10:34:12.499102 : :bien marchand meuble "plus qu'un"
+2021-05-17T10:34:12.734211 : Twitter error response: status code = 401
+2021-05-17T10:34:12.740502 : :bien meilleur membre "quand on est"
+2021-05-17T10:34:12.981830 : Twitter error response: status code = 401
+2021-05-17T10:34:12.989418 : :bien meilleur réveiller
+2021-05-17T10:34:13.229337 : Twitter error response: status code = 401
+2021-05-17T10:34:13.236177 : :bien peau "d'être dans sa"
+2021-05-17T10:34:13.477722 : Twitter error response: status code = 401
+2021-05-17T10:34:13.484826 : :bien penser
+2021-05-17T10:34:13.734738 : Twitter error response: status code = 401
+2021-05-17T10:34:13.741221 : :bien renseignement "plus que des"
+2021-05-17T10:34:13.980123 : Twitter error response: status code = 401
+2021-05-17T10:34:13.984208 : :bien repérer bien acheter
+2021-05-17T10:34:14.231296 : Twitter error response: status code = 401
+2021-05-17T10:34:14.236553 : :bien rire
+2021-05-17T10:34:14.455996 : Twitter error response: status code = 401
+2021-05-17T10:34:14.464081 : :bien sucre "plus que du"
+2021-05-17T10:34:14.713066 : Twitter error response: status code = 401
+2021-05-17T10:34:14.729898 : :bien sud "mais c'est"
+2021-05-17T10:34:14.973176 : Twitter error response: status code = 401
+2021-05-17T10:34:14.987217 : :bien traverser manche
+2021-05-17T10:34:15.227276 : Twitter error response: status code = 401
+2021-05-17T10:34:15.234248 : :bien trouver bien tomy
+2021-05-17T10:34:15.472407 : Twitter error response: status code = 401
+2021-05-17T10:34:15.479075 : :bien tête
+2021-05-17T10:34:15.718436 : Twitter error response: status code = 401
+2021-05-17T10:34:15.724749 : :bien vivre
+2021-05-17T10:34:15.954242 : Twitter error response: status code = 401
+2021-05-17T10:34:15.960724 : :bien vivre cher
+2021-05-17T10:34:16.184850 : Twitter error response: status code = 401
+2021-05-17T10:34:16.189003 : :bien y houra
+2021-05-17T10:34:16.413743 : Twitter error response: status code = 401
+2021-05-17T10:34:16.420310 : :bien-être haut définition
+2021-05-17T10:34:16.660818 : Twitter error response: status code = 401
+2021-05-17T10:34:16.665163 : :bien-être passion
+2021-05-17T10:34:16.905784 : Twitter error response: status code = 401
+2021-05-17T10:34:16.911296 : :bienfait nature
+2021-05-17T10:34:17.134666 : Twitter error response: status code = 401
+2021-05-17T10:34:17.138540 : :bienvenue maison sain
+2021-05-17T10:34:17.358374 : Twitter error response: status code = 401
+2021-05-17T10:34:17.365255 : :bienvenue monde
+2021-05-17T10:34:17.609059 : Twitter error response: status code = 401
+2021-05-17T10:34:17.624857 : :bienvenue pays noir couleur
+2021-05-17T10:34:17.864530 : Twitter error response: status code = 401
+2021-05-17T10:34:17.871863 : :bienvenue point vue "à tous les"
+2021-05-17T10:34:18.106573 : Twitter error response: status code = 401
+2021-05-17T10:34:18.113649 : :bienvenue téléphonie libre
+2021-05-17T10:34:18.354617 : Twitter error response: status code = 401
+2021-05-17T10:34:18.361203 : :bienvenue être
+2021-05-17T10:34:18.600298 : Twitter error response: status code = 401
+2021-05-17T10:34:18.606580 : :bijou haut fantaisie
+2021-05-17T10:34:18.846776 : Twitter error response: status code = 401
+2021-05-17T10:34:18.852318 : :bineau maison révéler intérieur
+2021-05-17T10:34:19.084633 : Twitter error response: status code = 401
+2021-05-17T10:34:19.090896 : :bière caractère
+2021-05-17T10:34:19.334940 : Twitter error response: status code = 401
+2021-05-17T10:34:19.341292 : :bière culte 1240
+2021-05-17T10:34:19.577179 : Twitter error response: status code = 401
+2021-05-17T10:34:19.583861 : :bière initié 1074
+2021-05-17T10:34:19.830544 : Twitter error response: status code = 401
+2021-05-17T10:34:19.836765 : :bière trouble esprit clair
+2021-05-17T10:34:22.630172 : Twitter error response: status code = 401
+2021-05-17T10:34:22.634988 : :body amp mind
+2021-05-17T10:34:22.856916 : Twitter error response: status code = 401
+2021-05-17T10:34:22.865207 : :boire vie vert
+2021-05-17T10:34:23.114756 : Twitter error response: status code = 401
+2021-05-17T10:34:23.122117 : :boire éliminez
+2021-05-17T10:34:23.355799 : Twitter error response: status code = 401
+2021-05-17T10:34:23.360763 : :bois adore
+2021-05-17T10:34:23.583098 : Twitter error response: status code = 401
+2021-05-17T10:34:23.589587 : :boisson donne aiiile
+2021-05-17T10:34:23.823666 : Twitter error response: status code = 401
+2021-05-17T10:34:23.830877 : :boite esprit ouverture
+2021-05-17T10:34:24.068625 : Twitter error response: status code = 401
+2021-05-17T10:34:24.075028 : :bold authentic and playful
+2021-05-17T10:34:24.310849 : Twitter error response: status code = 401
+2021-05-17T10:34:24.317642 : :bon "c'est autrement"
+2021-05-17T10:34:24.552013 : Twitter error response: status code = 401
+2021-05-17T10:34:24.558807 : :bon "c'est si"
+2021-05-17T10:34:24.789138 : Twitter error response: status code = 401
+2021-05-17T10:34:24.797128 : :bon "elle est si"
+2021-05-17T10:34:25.048323 : Twitter error response: status code = 401
+2021-05-17T10:34:25.054535 : :bon "et en plus c'est"
+2021-05-17T10:34:25.280533 : Twitter error response: status code = 401
+2021-05-17T10:34:25.286755 : :bon "parce que c'est"
+2021-05-17T10:34:25.528947 : Twitter error response: status code = 401
+2021-05-17T10:34:25.561292 : :bon affaire attendre
+2021-05-17T10:34:25.788895 : Twitter error response: status code = 401
+2021-05-17T10:34:25.794884 : :bon appétit bon baguépi
+2021-05-17T10:34:26.024858 : Twitter error response: status code = 401
+2021-05-17T10:34:26.036100 : :bon bonduelle "quand c'est"
+2021-05-17T10:34:26.282294 : Twitter error response: status code = 401
+2021-05-17T10:34:26.290280 : :bon boule "d'avoir les"
+2021-05-17T10:34:26.528527 : Twitter error response: status code = 401
+2021-05-17T10:34:26.534772 : :bon changer
+2021-05-17T10:34:26.765719 : Twitter error response: status code = 401
+2021-05-17T10:34:26.774766 : :bon chaud "comme c'est"
+2021-05-17T10:34:27.065909 : Twitter error response: status code = 401
+2021-05-17T10:34:27.069633 : :bon conduite
+2021-05-17T10:34:27.300557 : Twitter error response: status code = 401
+2021-05-17T10:34:27.309277 : :bon curieux
+2021-05-17T10:34:28.391974 : Twitter error response: status code = 401
+2021-05-17T10:35:00.800520 : ----START----
+2021-05-17T10:35:00.802228 : ('Already Done (I) :', 3122)
+2021-05-17T10:35:00.803679 : : "c'est aussi chez vous"
+2021-05-17T10:35:01.063937 : : "c'est tout compris"
+2021-05-17T10:35:01.886554 : : "c'est vous"
+2021-05-17T10:35:06.847775 : on dit merci aux garçons qui raccompagne les filles quelque part pour pas être seule, c’est vous les meilleurs
+2021-05-17T10:35:11.026430 : Vous savez souvent j’ai des baisses de foi énorme j’ai l’impression des fois de plus ressentir l’amour de Dieu, qu’il existe limite plus. Eh ben dans toute ce désespoir, ce qui me redonne la foi c’est vous, je m’adresse à tout mes frères et sœurs en Christ aujourd’hui
+2021-05-17T10:35:15.708061 : Ce n'est pas un virus qu'ils veulent contrôler, c'est VOUS ! #PassSanitaire
+2021-05-17T10:35:20.467163 : @GilTaieb @GuiraudInd @FranceInsoumise C'est vous l'ennemi de la république. Rentrez chez vous en Israël.
+2021-05-17T10:35:24.317970 : C'est vous-même que vous blessez quand vous pensez que quelqu'un a le même cœur que vous
+2021-05-17T10:35:28.887821 : Ce n'est pas un virus qu'ils veulent contrôler, c'est VOUS ! #PassSanitaire
+2021-05-17T10:35:33.308174 : @Mediapart @YTKibikii Des « innocents » ils ont osé dire , bientôt médiapart va nous dire que les policiers ont craqué une allumette eux même pour se mettre le feu. A force de donner du crédit à des raclures, c’est vous qui tuez la France et toutes ses valeurs…Mediapoubelle….
+2021-05-17T10:35:37.766808 : POUR TOUS LES ADEPTES DE CES INJECTIONS GENIQUES EXPERIMENTALES SACHEZ QUE C'EST VOUS QUI CONTAMINEZ LES AUTRES ET QUI PRODUISEZ LES VARIANTS!!LES JEUNES ENFANTS CONTAMINES PAR LES PROTEINES DE SPIKE EXCRETEES PAR LES VACCINES RISQUENT DE DEVELOPPER DES PATHOLOGIES GRAVES!! https://t.co/5AMTZdNdNp
+2021-05-17T10:35:42.305865 : bonjour. l’acné ne rend pas une personne moche, c’est vous qui êtes moche de l’intérieur
+2021-05-17T10:35:46.102633 : @AlexTerieur77 @francoisedegois @YvesPDB @lemondefr Mdr C'est vous les pleureuses professionnels dans les médiasOn a beaucoup souffert https://t.co/lQRAAlIoum
+2021-05-17T10:35:50.467782 : @imasdzz @Griadito Je vais tout péter c'est vous qu'avez pas compris c'est juste que a ton avis la dans cette état la il peut ouvrir la porte ? https://t.co/9Tkq70XhDT
+2021-05-17T10:35:54.892804 : @RTLFrance Ça, c'est vous qui le dites.
+2021-05-17T10:35:59.757206 : C’est qui les TOCAAARDS !? 😭 C’est vous les tocards 🤣 https://t.co/72T3r7ZdDy
+2021-05-17T10:36:04.726259 : C'est vous les timbrés à trouver que c'est normal d'agresser quelqu'un comme ça. Tu crois qu'elle allait ne pas nourrir son bébé pour vos beaux yeux?? Et puis quoi encore ?? surtout qu'elle était couverte. Vraiment un raisonnement de salopards ça. Vous sexualisez tout et nptq https://t.co/lCBdDMnyjP
+2021-05-17T10:36:08.474361 : Ce n'est pas un virus qu'ils veulent contrôler, c'est VOUS ! #PassSanitaire
+2021-05-17T10:36:12.864607 : Ce n'est pas un virus qu'ils veulent contrôler, c'est VOUS ! #PassSanitaire
+2021-05-17T10:36:17.442270 : Ce n'est pas un virus qu'ils veulent contrôler, c'est VOUS ! #PassSanitaire
+2021-05-17T10:36:21.113177 : Ce n'est pas un virus qu'ils veulent contrôler, c'est VOUS ! #PassSanitaire
+2021-05-17T10:36:25.673847 : Ce n'est pas un virus qu'ils veulent contrôler, c'est VOUS ! #PassSanitaire
+2021-05-17T10:36:30.024569 : Bonjour @BenjDaSilva c’est vous et Omar qui commentez le match du Barca ?
+2021-05-17T10:36:33.618553 : On parle de problème de redistribution d'énergie chaque jour mais au lieu de nous priver d'énergie toute la journée, @EneoCameroon14 il est préférable de la suspendre entre minuit et 05h du matin, personne ne s'en rendra compte, Mais comme c'est vous les boss, on va faire comment
+2021-05-17T10:36:38.763844 : @DSK14HUNNA @Rondo_014 @Zaagadaat @FreshXIX Rah ouais je comprends pk ils disent ça enfaite c’est vous vous allez faire les play in
+2021-05-17T10:36:43.492699 : Vous suivez des grosses tasspé comme ça, c’est vous qui lui donner de l’audience et de la crédibilité, continuez à regardez des imbéciles issus de la télé-réalité et surtout restez abonné à elle 🤙🏼 https://t.co/0iF5Og8xdx
+2021-05-17T10:36:47.621107 : On en oublie des comportements humains surtout qu’il s’agit de nourrir un BÉBÉ. Elle exhibe pas ses seins pour le fun, surtout qu’elle a dit qu’elle a couvert. Si vous trouvez qu’il y a une soucis c’est que vous sexualisé ce type de situation et c’est vous le soucis https://t.co/vMKXbiocLp
+2021-05-17T10:36:52.487079 : comme l'explique très bien Bertrand Badie c'est vous qui importez par vos décisions liberticides ce conflit en France @ccastaner https://t.co/CMN8TBzFHq https://t.co/CUcXJ02Dcn
+2021-05-17T10:36:58.250432 : comme l'explique très bien Bertrand Badie c'est vous qui importez par vos décisions liberticides ce conflit en France @ccastaner https://t.co/CMN8TBzFHq https://t.co/CUcXJ02Dcn
+2021-05-17T10:36:59.757464 : Twitter error response: status code = 429
+2021-05-17T10:36:59.800645 : got 2642 tweets
+2021-05-17T10:36:59.804910 : data/tweets_collectes/corpus_2021-05-17_0.json
+2021-05-17T10:36:59.806242 : ==== END ====
+2021-05-17T15:00:57.788420 : ----START----
+2021-05-17T15:00:57.791318 : ('Already Done (I) :', 5764)
+2021-05-17T15:00:57.792804 : :Boire ou conduire, il faut choisir
+2021-05-17T15:00:58.807951 : :Casse-toi pauvre con
+2021-05-17T15:00:59.373853 : :Ce moment où tu X
+2021-05-17T15:00:59.812289 : :C’est mon projeeeet.
+2021-05-17T15:01:00.030222 : :Dans l’espace, personne ne vous entendra crier.
+2021-05-17T15:01:00.258679 : :De quoi X est-il le nom ?
+2021-05-17T15:01:00.504272 : :Est-ce que tu mèmes ?
+2021-05-17T15:01:01.525516 : :Je compte rester vierge toute ma vie pour être un exemple pour mon fils.
+2021-05-17T15:01:01.806432 : :Je traverse la rue et je vous trouve du travail
+2021-05-17T15:01:02.372212 : :Liberté, égalité, fraternité
+2021-05-17T15:01:04.657667 : #17MAI // JOURNÉE MONDIALE DE LUTTE CONTRE L’HOMOPHOBIE ET LA TRANSPHOBIE Aujourd’hui, on ajoute des couleurs à notre foulard local.🌈#LIBERTÉ (d’aimer) - #ÉGALITÉ (pour tous) - #FRATERNITÉ ❤️🧡💛💚💙💜#luttecontrelhomophobie #luttecontrelatransphobie #montdemarsan https://t.co/EvxrLfjnsy
+2021-05-17T15:01:09.020101 : Apparently the French national motto of ‘liberté, égalité, fraternité’ actually translates to ‘water cannons, tear gas, baton charges’. https://t.co/wZHYvVIbK4
+2021-05-17T15:01:13.128364 : @JeanMessiha =&gt; ou le bon suivi des directives européennes), mais des Français en restaurant le tissu social, la reconnaissance du Travail. Car un "grand" pays sans grand Peuple n'est rien. 《 Liberté, Égalité, Fraternité 》Qu'est qu'on a maintenant ? Des gens qui gueulent pour des broutilles
+2021-05-17T15:01:17.264470 : Apparently the French national motto of ‘liberté, égalité, fraternité’ actually translates to ‘water cannons, tear gas, baton charges’. https://t.co/wZHYvVIbK4
+2021-05-17T15:01:22.820773 : Apparently the French national motto of ‘liberté, égalité, fraternité’ actually translates to ‘water cannons, tear gas, baton charges’. https://t.co/wZHYvVIbK4
+2021-05-17T15:01:26.096445 : @blanco361 @Tsipora777 @EmmanuelMacron Liberté,égalité,fraternité ?Le droit de manifester ?Ça te dit quelque chose ?
+2021-05-17T15:01:30.186518 : @DamienRieu Ces gens viennent de pays qui sont tout sauf démocratiques ils arrivent et que font-ils pour te remercier rien. La liberté (d’expression) ils l’utilisent pour te cracher dessus l’égalité ils la refusent te considérant comme un mécréant et la fraternité j’en parle même pas ☹️
+2021-05-17T15:01:35.403114 : Apparently the French national motto of ‘liberté, égalité, fraternité’ actually translates to ‘water cannons, tear gas, baton charges’. https://t.co/wZHYvVIbK4
+2021-05-17T15:01:39.801877 : Apparently the French national motto of ‘liberté, égalité, fraternité’ actually translates to ‘water cannons, tear gas, baton charges’. https://t.co/wZHYvVIbK4
+2021-05-17T15:01:43.850748 : Apparently the French national motto of ‘liberté, égalité, fraternité’ actually translates to ‘water cannons, tear gas, baton charges’. https://t.co/wZHYvVIbK4
+2021-05-17T15:07:37.001021 : ----START----
+2021-05-17T15:07:37.002804 : ('Already Done (I) :', 5764)
+2021-05-17T15:07:37.004386 : :Boire ou conduire, il faut choisir
+2021-05-17T15:07:37.853550 : :Casse-toi pauvre con
+2021-05-17T15:07:38.387665 : :Ce moment où tu X
+2021-05-17T15:07:38.854723 : :C’est mon projeeeet.
+2021-05-17T15:07:39.087327 : :Dans l’espace, personne ne vous entendra crier.
+2021-05-17T15:07:39.336375 : :De quoi X est-il le nom ?
+2021-05-17T15:07:39.633535 : :Est-ce que tu mèmes ?
+2021-05-17T15:07:40.708580 : :Je compte rester vierge toute ma vie pour être un exemple pour mon fils.
+2021-05-17T15:07:40.951053 : :Je traverse la rue et je vous trouve du travail
+2021-05-17T15:07:41.471088 : :Liberté, égalité, fraternité
+2021-05-17T15:07:43.218046 : C'est quoi le nom de l'avocat? Combien de fois il a fait ça ? Combien de fois il va le refaire s'il n'est pas radié du barreau? Elle est ou la Liberté, Egalité, Fraternité?Ils sont où les "républicains" ? https://t.co/wryFiM007p
+2021-05-17T15:07:43.221617 : :Omar m’a tuer
+2021-05-17T15:07:43.975654 : :Omar ne sait pas écrire
+2021-05-17T15:07:44.249617 : :Partir, c'est mourir un peu.
+2021-05-17T15:07:45.115454 : :Tu veux manger chinois ou chez toi ? 
+2021-05-17T15:07:45.368358 : :Vers l'infini et au delà
+2021-05-17T15:07:47.427901 : :X est le nouveau Y
+2021-05-17T15:07:48.051201 : Mdrr donc le nouveau clip de x man le truc est sur un site porn mais y’a que la meuf qui se déshabille ? Je fais quoi avec sa Y’a clairement un problème dans le clip
+2021-05-17T15:07:48.054857 : :c'est le deuxième effet Kiss Cool
+2021-05-17T15:07:48.530397 : :c'est pas prêt, mais c'est pas grave
+2021-05-17T15:07:50.385584 : :debout les damnés de la terre
+2021-05-17T15:07:50.979877 : :on ne peut pas accueillir toute la misère du monde
+2021-05-17T15:07:52.178675 : :tu pousses le bouchon
+2021-05-17T15:07:53.199225 : @Khaabd4 @Kaptaine5 Tu pousses le bouchon un ptit peu trop loin Maurice
+2021-05-17T15:07:53.202418 : :à la vie, à l'amour
+2021-05-17T15:07:57.097711 : Hier on m’a dit je cherche pas l’amour mais un mec qui m’impressionne et m’offre la vie DA, crari j’suis un portefeuille Vous pensez j’lai bloquer ?
+2021-05-17T15:07:57.129890 : got 400 tweets
+2021-05-17T15:07:57.136391 : data/tweets_collectes/corpus_2021-05-17_1.json
+2021-05-17T15:07:57.137618 : ==== END ====
+2021-05-17T15:08:20.650406 : ----START----
+2021-05-17T15:08:20.652093 : ('Already Done (I) :', 6164)
+2021-05-17T15:08:20.653441 : :-ce mèmes "est" "que tu"
+2021-05-17T15:08:21.512275 : :-il nom "de quoi" "est" "le"
+2021-05-17T15:08:24.458385 : @Jyzee2 @Brevesdepresse Je suis totalement scandalisé par cette dictature ! Au nom de quoi changerait on mon mode vie, ma façon de vivre… m’imposer un pass pour vivre de mes loisirs c’est purement contre le droit de vivre ! Tous ces politiciens je vous hait de toute mon âme ! 1recours est possible ? https://t.co/zd4ysC8HPx
+2021-05-17T15:08:55.365604 : ----START----
+2021-05-17T15:08:55.367189 : ('Already Done (I) :', 0)
+2021-05-17T15:08:55.368646 : 2021-05-17:Boire ou conduire, il faut choisir
+2021-05-17T15:08:56.519485 : 2021-05-17:Casse-toi pauvre con
+2021-05-17T15:08:57.025398 : 2021-05-17:Ce moment où tu X
+2021-05-17T15:08:57.591983 : 2021-05-17:C’est mon projeeeet.
+2021-05-17T15:08:57.834966 : 2021-05-17:Dans l’espace, personne ne vous entendra crier.
+2021-05-17T15:08:58.066397 : 2021-05-17:De quoi X est-il le nom ?
+2021-05-17T15:08:58.296013 : 2021-05-17:Est-ce que tu mèmes ?
+2021-05-17T15:08:59.276914 : 2021-05-17:Je compte rester vierge toute ma vie pour être un exemple pour mon fils.
+2021-05-17T15:08:59.529089 : 2021-05-17:Je traverse la rue et je vous trouve du travail
+2021-05-17T15:09:00.015196 : 2021-05-17:Liberté, égalité, fraternité
+2021-05-17T15:09:01.592358 : Mesdames et Messieurs les Sénateurs, l'avenir de nos : démocratie, liberté, égalité, fraternité, sera demain entre vos mains @Senat avec le vote du projet de loi de sortie de l'état d'urgence sanitaire et du controversé pass sanitaire. (Les français voteront en conséquence !)
+2021-05-17T15:09:01.602464 : 2021-05-17:Omar m’a tuer
+2021-05-17T15:09:02.189129 : 2021-05-17:Omar ne sait pas écrire
+2021-05-17T15:09:02.465254 : 2021-05-17:Partir, c'est mourir un peu.
+2021-05-17T15:09:03.630376 : 2021-05-17:Tu veux manger chinois ou chez toi ? 
+2021-05-17T15:09:03.882321 : 2021-05-17:Vers l'infini et au delà
+2021-05-17T15:09:05.890401 : 2021-05-17:X est le nouveau Y
+2021-05-17T15:09:06.290771 : Mdrr donc le nouveau clip de x man le truc est sur un site porn mais y’a que la meuf qui se déshabille ? Je fais quoi avec sa Y’a clairement un problème dans le clip
+2021-05-17T15:09:06.295524 : 2021-05-17:c'est le deuxième effet Kiss Cool
+2021-05-17T15:09:06.778753 : 2021-05-17:c'est pas prêt, mais c'est pas grave
+2021-05-17T15:09:08.118440 : Twitter error response: status code = 429
+2021-05-17T15:09:08.232262 : got 235 tweets
+2021-05-17T15:09:08.240396 : data/tweets_collectes/corpus_2021-05-17_2.json
+2021-05-17T15:09:08.242844 : ==== END ====
+2021-05-17T15:11:22.234773 : ----START----
+2021-05-17T15:11:22.236434 : ('Already Done (I) :', 0)
+2021-05-17T15:11:22.237711 : :-ce mèmes "est" "que tu"
+2021-05-17T15:11:22.459943 : Twitter error response: status code = 429
+2021-05-17T15:11:22.478964 : got 0 tweets
+2021-05-17T15:11:22.484274 : data/tweets_collectes/corpus_2021-05-17_1.json
+2021-05-17T15:11:22.485613 : ==== END ====
+2021-05-17T15:25:53.316808 : ----START----
+2021-05-17T15:25:53.318377 : ('Already Done (I) :', 0)
+2021-05-17T15:25:53.319795 : 2021-05-17:Boire ou conduire, il faut choisir
+2021-05-17T15:25:54.399742 : 2021-05-17:Casse-toi pauvre con
+2021-05-17T15:25:54.939509 : 2021-05-17:Ce moment où tu X
+2021-05-17T15:25:55.532010 : 2021-05-17:C’est mon projeeeet.
+2021-05-17T15:25:55.766480 : 2021-05-17:Dans l’espace, personne ne vous entendra crier.
+2021-05-17T15:25:56.006951 : 2021-05-17:De quoi X est-il le nom ?
+2021-05-17T15:25:56.237918 : 2021-05-17:Est-ce que tu mèmes ?
+2021-05-17T15:25:57.333202 : 2021-05-17:Je compte rester vierge toute ma vie pour être un exemple pour mon fils.
+2021-05-17T15:25:57.585872 : 2021-05-17:Je traverse la rue et je vous trouve du travail
+2021-05-17T15:25:58.074384 : 2021-05-17:Liberté, égalité, fraternité
+2021-05-17T15:26:00.192811 : C'est encore moi, #IDAHOBIT2021 en France on dit "on dit love is love et liberté égalité fraternité" mais on a un ministre violeur, des maires en prison qui restent maires, des parties qui se servent dans les caisses, on interdit les manifs n°3 mondial de ventes d'armes
+2021-05-17T15:26:00.198453 : 2021-05-17:Omar m’a tuer
+2021-05-17T15:26:01.242077 : 2021-05-17:Omar ne sait pas écrire
+2021-05-17T15:26:01.507273 : 2021-05-17:Partir, c'est mourir un peu.
+2021-05-17T15:26:02.581791 : 2021-05-17:Tu veux manger chinois ou chez toi ? 
+2021-05-17T15:26:02.829080 : 2021-05-17:Vers l'infini et au delà
+2021-05-17T15:26:05.008973 : 2021-05-17:X est le nouveau Y
+2021-05-17T15:26:05.730769 : [COMEBACK x @ELASTofficial]🇨🇵Elring‼ ️Que pensez-vous de mes cheveux roses? 🧐C'est un peu étrange car la dernière fois que j'ai teint mes cheveux c'était il y a longtemps, mais c'est beau non ? Veuillez attendre avec impatience le nouveau MV. + https://t.co/iVD3UtzTlM https://t.co/3v1M1H4ElH
+2021-05-17T15:26:05.733657 : 2021-05-17:c'est le deuxième effet Kiss Cool
+2021-05-17T15:26:06.321837 : 2021-05-17:c'est pas prêt, mais c'est pas grave
+2021-05-17T15:26:07.733529 : 2021-05-17:debout les damnés de la terre
+2021-05-17T15:26:08.415313 : 2021-05-17:on ne peut pas accueillir toute la misère du monde
+2021-05-17T15:26:09.727645 : 2021-05-17:tu pousses le bouchon
+2021-05-17T15:26:10.560428 : @Khaabd4 @Kaptaine5 Tu pousses le bouchon un ptit peu trop loin Maurice
+2021-05-17T15:26:10.563680 : 2021-05-17:à la vie, à l'amour
+2021-05-17T15:26:15.035030 : comment vous montrez votre amour à vos proches? ça m’intéresse de voir plusieurs manières de montrer son amourpar exemple, pour ma part j’offre des cadeaux quand je vois la personne, et j’essaie d’être informée de sa vie et je n’hésite jamais à l’encourager et la complimenter
+2021-05-17T15:26:15.051441 : got 400 tweets
+2021-05-17T15:26:15.057183 : data/tweets_collectes/corpus_2021-05-17_0.json
+2021-05-17T15:26:15.058437 : ==== END ====
+2021-05-17T15:26:49.948204 : ----START----
+2021-05-17T15:26:49.949902 : ('Already Done (I) :', 0)
+2021-05-17T15:26:49.951182 : :-il nom "de quoi" "est" "le"
+2021-05-17T15:26:54.826409 : Surtout, au nom de quoi la lutte contre le #COVID19 justifie le sacrifice de nos libertés publiques et le reniement de notre démocratie. Le #PassSanitaire est la version moderne du fascisme. Les personnes des partis dits démocrates qui soutiennent cela trahissent la démocratie. https://t.co/GzvoHwlAV1
+2021-05-17T15:26:54.831279 : :accueillir misère monde "on ne peut pas" "toute la" "du"
+2021-05-17T15:26:55.957823 : :boire conduire faut choisir "ou" "il"
+2021-05-17T15:26:56.988794 : :casse-toi pauvre con
+2021-05-17T15:26:57.573187 : :compte rester vierge vie exemple fils "je" "toute ma" "pour être un" "pour mon"
+2021-05-17T15:26:57.811098 : :damnés terre "debout les" "de la"
+2021-05-17T15:26:58.384387 : :espace entendra crier "dans l’" "personne ne vous"
+2021-05-17T15:26:58.747092 : :infini "vers l'" "et au delà"
+2021-05-17T15:27:00.164470 : Vers l'infini et au delà !
+2021-05-17T15:27:00.169472 : :kiss cool "c'est le deuxième effet"
+2021-05-17T15:27:00.409215 : :liberté égalité fraternité
+2021-05-17T15:27:05.163946 : Liberté, Egalité, Fraternité 😂 https://t.co/JYUrEIAbKB https://t.co/lVCB7sbIW5
+2021-05-17T15:27:05.169274 : :moment "ce" "où tu"
+2021-05-17T15:27:08.190024 : @niqo_tv j'parle bien des vidéos où tu vois des extraits qui montrent ce qu'il va y avoir dans la vidéo, dans nos intros le moment c'est pas un spoil tu le revois jamais après car c'est détaché de la vidéo
+2021-05-17T15:27:08.200092 : :nouveau "est le"
+2021-05-17T15:27:11.738659 : @donasstello J’sais pas pq tout le monde est choqué sa fait 3500 ans que c’est le bordel en Proche Orient c’est pas nouveau ce qui prouve encore une fois que les religions ne peuvent pas vivre en harmonie mais le problème c’est que l’humain est trop faible et naïf pour se rendre à l’evidence.
+2021-05-17T15:27:11.744365 : :omar tuer "m’ a"
+2021-05-17T15:27:12.579082 : :omar écrire "ne sait pas"
+2021-05-17T15:27:12.840138 : :partir mourir "c'est" "un peu"
+2021-05-17T15:27:14.009724 : :pousses bouchon "tu" "le"
+2021-05-17T15:27:15.985302 : @Amorouayechemo1 @sabrin__a @AntoineBazboz Tu décompresses comme tu peux hein , mais des fois tu pousses le bouchon 😂😂
+2021-05-17T15:27:15.990466 : :projeeeet "c’ est mon"
+2021-05-17T15:27:16.221136 : :prêt grave "c'est pas" "mais c'est pas"
+2021-05-17T15:27:16.716450 : :traverse rue trouve travail "je" "la" "et je vous" "du"
+2021-05-17T15:27:16.972414 : :veux manger chinois "tu" "ou chez toi"
+2021-05-17T15:27:17.214139 : :vie amour "à la" "à l'"
+2021-05-17T15:27:20.638428 : je crois en l’amour, aux constellations, à l’âme sœur, à nos cœurs amoureux, aux astres lumineux, à la vie dans tes yeux
+2021-05-17T15:27:20.644653 : 2021-05-17:-ce mèmes "est" "que tu"
+2021-05-17T15:27:24.555269 : @Julien_Hick @letonnai Un lore extrêmement dense (bon, pas avec les nouveaux perso), peu de répétition vu que tu tombes jamais contre et avec les mêmes joueurs, des majs chaque semaine qui modifient la meta, les skins c'est facultatif, les bugs y'en à un tous les 8 mois, t'as jamais essayé en fait ?
+2021-05-17T15:27:24.579150 : got 800 tweets
+2021-05-17T15:27:24.582780 : data/tweets_collectes/corpus_2021-05-17_1.json
+2021-05-17T15:27:24.583856 : ==== END ====
+2021-05-17T15:27:44.494240 : ----START----
+2021-05-17T15:27:44.495769 : ('Already Done (I) :', 0)
+2021-05-17T15:27:44.497699 : :-ce mèmes
+2021-05-17T15:27:48.918591 : D’un côté une journaliste pro-israélienne qui tweet depuis Israël.De l’autre, Fatima Shbair, photo-journaliste,habitante de Gaza. Elles ne passent visiblement pas les mêmes journées. Une ne veut pas être dérangée par les sirènes, quand l’autre n’est pas sûre de voir demain. https://t.co/rOAkWNZs0M
+2021-05-17T15:27:48.921975 : :-il nom
+2021-05-17T15:27:52.727246 : Avec un fort héritage dans l'industrie automobile, DS Automobiles s'est illustré dans un domaine où elle a dû se faire un nom, tout en respectant l'esprit d'avant-garde de la DS originale.#Dsautomobiles #theartofDS https://t.co/eK8Ya35kuS
+2021-05-17T15:27:52.732278 : :accueillir misère monde "on ne peut pas"
+2021-05-17T15:27:54.064904 : :boire conduire faut choisir
+2021-05-17T15:27:55.165859 : :casse-toi pauvre con
+2021-05-17T15:27:55.663095 : :compte rester vierge vie exemple fils "pour être un"
+2021-05-17T15:27:55.889471 : :damnés terre
+2021-05-17T15:27:57.541335 : Roger Lajoie-Mazenc et tout nouveau livre« Temps de révoltesdamnés de la terre et premiers de corvée »une histoire sociale de l’Aveyronqui fait une large place à Capdenac-garece samedi prochain 15 mai de 14h à 17hà l’Espace culturel Leclercà Capdenac-le-Haut
+2021-05-17T15:27:57.544328 : :espace entendra crier "personne ne vous"
+2021-05-17T15:27:57.797940 : :infini "et au delà"
+2021-05-17T15:28:00.274314 : :kiss cool "c'est le deuxième effet"
+2021-05-17T15:28:00.510562 : :liberté égalité fraternité
+2021-05-17T15:28:02.500610 : 🏳️‍🌈 Oui, aimez qui vous voulez ! Notre pays est celui de la liberté, de l’égalité et de la fraternité. En cette journée de lutte contre l'#homophobie, la transphobie et la biphobie, réaffirmons haut et fort nos valeurs et continuons le combat ! https://t.co/geCrBxglEk
+2021-05-17T15:28:02.505485 : :omar tuer
+2021-05-17T15:28:05.000213 : :omar écrire "ne sait pas"
+2021-05-17T15:28:05.390302 : :partir mourir
+2021-05-17T15:28:05.781221 : :pousses bouchon
+2021-05-17T15:28:07.126912 : @houari_guermat Cher Houari, je sais que nous sommes en période électorale, mais je trouve que tu pousses un peu le bouchon. Comparer @LREM et le @RNational_off , est un peu gros
+2021-05-17T15:28:07.134828 : :projeeeet "c’ est mon"
+2021-05-17T15:28:07.408612 : :prêt grave "c'est pas" "mais c'est pas"
+2021-05-17T15:28:07.961481 : Twitter error response: status code = 429
+2021-05-17T15:28:07.997078 : got 502 tweets
+2021-05-17T15:28:08.000331 : data/tweets_collectes/corpus_2021-05-17_2.json
+2021-05-17T15:28:08.001364 : ==== END ====
+2021-05-17T15:37:15.038269 : ----START----
+2021-05-17T15:37:15.039694 : ('Already Done (I) :', 0)
+2021-05-17T15:37:15.040603 : :traverse rue trouve travail "et je vous"
+2021-05-17T15:37:15.265049 : Twitter error response: status code = 429
+2021-05-17T15:37:15.283133 : got 0 tweets
+2021-05-17T15:37:15.292888 : data/tweets_collectes/corpus_2021-05-17_2.json
+2021-05-17T15:37:15.294478 : ==== END ====
+2021-05-17T15:45:27.374221 : ----START----
+2021-05-17T15:45:27.375865 : ('Already Done (I) :', 0)
+2021-05-17T15:45:27.377176 : :veux manger chinois "ou chez toi"
+2021-05-17T15:45:27.694364 : :vie amour
+2021-05-17T15:45:31.184562 : La lutte contre l'#homophobie, la #transphobie et la #biphobie est l'un des combats de ma vie.Il n'y a pas d'amour censure, il n'y a que de l'amour sincère. Merci pour ce film touchant @benoitpetre @Francetele @TETUmag @HoshiOfficial #VanessaParadis.#IDAHOT2021#17mai https://t.co/jdF4hymne1
+2021-05-17T15:45:31.188970 : 2021-05-17:-ce mèmes
+2021-05-17T15:45:35.878809 : D’un côté une journaliste pro-israélienne qui tweet depuis Israël.De l’autre, Fatima Shbair, photo-journaliste,habitante de Gaza. Elles ne passent visiblement pas les mêmes journées. Une ne veut pas être dérangée par les sirènes, quand l’autre n’est pas sûre de voir demain. https://t.co/rOAkWNZs0M
+2021-05-17T15:45:35.881793 : 2021-05-17:-il nom
+2021-05-17T15:45:37.787648 : 2021-05-17:accueillir misère monde "on ne peut pas"
+2021-05-17T15:45:39.295537 : 2021-05-17:boire conduire faut choisir
+2021-05-17T15:45:39.976874 : @_cc1b toi sur le podium ahah moi c’est boire ou conduire il faut choisir Ahahha ;)
+2021-05-17T15:45:40.074746 : 2021-05-17:casse-toi pauvre con
+2021-05-17T15:45:40.652983 : 2021-05-17:compte rester vierge vie exemple fils "pour être un"
+2021-05-17T15:45:40.895829 : 2021-05-17:damnés terre
+2021-05-17T15:45:44.312643 : ✊Les dealers, les damnés de la terre !Non mais, on croit rêver... ☹#LFI https://t.co/UaYC1SZ1SL
+2021-05-17T15:45:44.315844 : 2021-05-17:espace entendra crier "personne ne vous"
+2021-05-17T15:45:44.552387 : 2021-05-17:infini "et au delà"
+2021-05-17T15:45:46.526002 : 2021-05-17:kiss cool "c'est le deuxième effet"
+2021-05-17T15:45:46.744396 : 2021-05-17:liberté égalité fraternité
+2021-05-17T15:45:48.412630 : @hautsdebienne @TwittenRimes @twittenrimes @hautsdebienneLiberté, égalité, fraternitéPendant la nuit sombre, les grandes plantes bougent, Dans la grande forêt noire, il y a des frises(Nathan, Cassiya, Lana et Jillian)
+2021-05-17T15:45:48.418035 : 2021-05-17:omar tuer
+2021-05-17T15:45:50.688315 : 2021-05-17:omar écrire "ne sait pas"
+2021-05-17T15:45:51.067844 : 2021-05-17:partir mourir
+2021-05-17T15:45:52.279072 : «Si vous trouvez une façon de contrer nos démarches, je peux transférer l’édifice en mon nom personnel et je vais simplement reprendre votre logement pour l’habiter ou loger ma mère»Ce proprio a converti 40 logements en trois ans.Un locataire s’est tué. https://t.co/PdC6FiqFie
+2021-05-17T15:45:52.282345 : 2021-05-17:pousses bouchon
+2021-05-17T15:45:54.530437 : 2021-05-17:projeeeet "c’ est mon"
+2021-05-17T15:45:54.761569 : 2021-05-17:prêt grave "c'est pas" "mais c'est pas"
+2021-05-17T15:45:55.267477 : 2021-05-17:traverse rue trouve travail "et je vous"
+2021-05-17T15:45:56.139321 : got 677 tweets
+2021-05-17T15:45:56.142646 : data/tweets_collectes/corpus_2021-05-17_2.json
+2021-05-17T15:45:56.144087 : ==== END ====
+2021-05-17T15:46:26.760510 : ----START----
+2021-05-17T15:46:26.762054 : ('Already Done (I) :', 0)
+2021-05-17T15:46:26.763756 : :-ce mème
+2021-05-17T15:46:29.914732 : @mlys____ Ouais mais t'as même pas capable de faire un château de sable, alors respect pour cet ouvrier. Oui je préfère le crabe que toi.
+2021-05-17T15:46:29.920845 : :accueillir misère monde "on ne peut pas"
+2021-05-17T15:46:32.395522 : :boire conduire falloir choisir
+2021-05-17T15:46:32.641187 : :casse-toi pauvre con
+2021-05-17T15:46:33.130574 : :compte rester vierge vie exemple fils "pour être un"
+2021-05-17T15:46:33.384444 : :damné terre
+2021-05-17T15:46:34.166914 : :espace entendre crier "personne ne vous"
+2021-05-17T15:46:34.448540 : :il nom
+2021-05-17T15:46:34.859264 : :infini "et au delà"
+2021-05-17T15:46:37.262077 : :kiss cool "c'est le deuxième effet"
+2021-05-17T15:46:37.495339 : :liberté égalité fraternité
+2021-05-17T15:46:37.906823 : @BrunoBonnellOff @Ambroise_Mejean 🚨🚨 Nous souhaitons que la meilleure note entre celle de l'examen et celle eu en classe soit prise en compte pour le #BTSCC2021   🚨🚨Comme pour le #Bac2021 @VidalFrederique  @jmblanquer Merci pourLe " Tenir ensemble "@EmmanuelMacron Liberté Égalité fraternité
+2021-05-17T15:46:37.910377 : :omar tuer
+2021-05-17T15:46:40.248523 : :omar écrire "ne sait pas"
+2021-05-17T15:46:40.525901 : :partir mourir
+2021-05-17T15:46:41.746190 : «Si vous trouvez une façon de contrer nos démarches, je peux transférer l’édifice en mon nom personnel et je vais simplement reprendre votre logement pour l’habiter ou loger ma mère»Ce proprio a converti 40 logements en trois ans.Un locataire s’est tué. https://t.co/PdC6FiqFie
+2021-05-17T15:46:41.749410 : :pousse bouchon
+2021-05-17T15:46:46.161782 : @surpepee Ouais mais il poussé le bouchon un peeeu
+2021-05-17T15:46:46.166744 : :projeeeet "c’ est mon"
+2021-05-17T15:46:46.393798 : :prêt grave "c'est pas" "mais c'est pas"
+2021-05-17T15:46:46.935373 : :traverse rue trouve travail "et je vous"
+2021-05-17T15:46:47.561766 : :vie amour
+2021-05-17T15:46:51.579936 : A partager au maximum, les loulous vous attendent, il y a peut-être l'amour de votre vie💓🐱🙏 https://t.co/xzNRgJ2JVb
+2021-05-17T15:46:51.584699 : :vouloir manger chinois "ou chez toi"
+2021-05-17T15:46:51.842451 : got 500 tweets
+2021-05-17T15:46:51.845502 : data/tweets_collectes/corpus_2021-05-17_3.json
+2021-05-17T15:46:51.846669 : ==== END ====
+2021-05-17T15:47:12.930228 : ----START----
+2021-05-17T15:47:12.931947 : ('Already Done (I) :', 0)
+2021-05-17T15:47:12.934678 : : "c'est pas prêt" "mais c'est pas grave"
+2021-05-17T15:47:13.209352 : : "est le nouveau"
+2021-05-17T15:47:17.079831 : Un cookie? C’est le nouveau bouclier de captain america ouais https://t.co/dXkYnh7PIR
+2021-05-17T15:47:17.082989 : :-ce mèmes
+2021-05-17T15:47:20.689310 : @flaubertenslip C'est les mêmes qui pissent dans la rue qui sont choqués pour un bout de sein ?
+2021-05-17T15:47:20.692499 : :-il nom
+2021-05-17T15:47:23.850416 : #Nautilus 1-Le théâtre des ombres ❤️Mathieu Mariolle Guénaël Grabowski @GlenatBD  Imaginer ce que serait devenu #Kim héros du roman de #Kipling Et le personnage fascinant de #JulesVerne qui a pour nom "Personne"?#aventure captivante, superbes #dessins!https://t.co/V4lJG5QlJD https://t.co/JCGfbidm0N
+2021-05-17T15:47:23.853379 : :accueillir misère monde "on ne peut pas"
+2021-05-17T15:47:25.127890 : :boire conduire faut choisir
+2021-05-17T15:47:26.293234 : :compte rester vierge vie exemple fils "pour être un"
+2021-05-17T15:47:26.541784 : :damnés terre
+2021-05-17T15:47:28.417393 : @PoliceRealites C'est vrai ça  les dealers sont les " damnés de la terre" et " les forçats de la faim"!🎶
+2021-05-17T15:47:28.425609 : :espace entendra crier "personne ne vous"
+2021-05-17T15:47:28.663911 : :infini "et au delà"
+2021-05-17T15:47:30.912078 : :kiss "c'est le deuxième effet"
+2021-05-17T15:47:31.148124 : :liberté égalité fraternité
+2021-05-17T15:47:33.230126 : Les valeurs de notre République louent et promeuvent la Liberté, l'Egalité et la Fraternité. En cette journée particulière, c'est l'occasion de rappeler au combien le vivre ensemble est important en dépassant toute forme de clivages et de discriminations. https://t.co/421Ljt0zpV
+2021-05-17T15:47:33.237925 : :omar écrire "ne sait pas"
+2021-05-17T15:47:33.749560 : :partir mourir
+2021-05-17T15:47:37.161446 : IL SUFFIT JUSTE DE RÉFLÉCHIR 2 MNMais chez certains, la réflexion se limite à celle de BFMTV et du gouvernement (vu à la télé 😂)D'autres veulent partir en vacances et préfèrent encourir les risque d'une piqûre l'étale ! (voir Venise et mourir) https://t.co/xWX1MJ4jlU
+2021-05-17T15:47:37.164670 : :pousses bouchon
+2021-05-17T15:47:39.699031 : :projeeeet "c’ est mon"
+2021-05-17T15:47:39.909799 : Twitter error response: status code = 429
+2021-05-17T15:47:39.968542 : got 672 tweets
+2021-05-17T15:47:39.971888 : data/tweets_collectes/corpus_2021-05-17_4.json
+2021-05-17T15:47:39.972967 : ==== END ====
+2021-05-17T16:03:57.969880 : ----START----
+2021-05-17T16:03:57.971464 : ('Already Done (I) :', 0)
+2021-05-17T16:03:57.972749 : :traverse rue trouve travail "et je vous"
+2021-05-17T16:03:58.502804 : :tuer "omar m’ a"
+2021-05-17T16:03:59.311745 : :veux manger "chinois ou chez toi"
+2021-05-17T16:03:59.655565 : :vie amour
+2021-05-17T16:04:02.651213 : elle m’a écrite la lettre la + mignonne du monde🥺🥺c’est l’amour de ma vie&lt;33
+2021-05-17T16:04:02.656595 : 2021-05-17: "c'est pas prêt" "mais c'est pas grave"
+2021-05-17T16:04:02.918321 : 2021-05-17: "est le nouveau"
+2021-05-17T16:04:06.033058 : Un cookie? C’est le nouveau bouclier de captain america ouais https://t.co/dXkYnh7PIR
+2021-05-17T16:04:06.036473 : 2021-05-17:-ce mèmes
+2021-05-17T16:04:09.744033 : D’un côté une journaliste pro-israélienne qui tweet depuis Israël.De l’autre, Fatima Shbair, photo-journaliste,habitante de Gaza. Elles ne passent visiblement pas les mêmes journées. Une ne veut pas être dérangée par les sirènes, quand l’autre n’est pas sûre de voir demain. https://t.co/rOAkWNZs0M
+2021-05-17T16:04:09.748273 : 2021-05-17:-il nom
+2021-05-17T16:04:13.137409 : 669 pt.2 meilleur son 2021 rien a dire ceux qui disent le contraire au nom de dieu on se bat donnez votre adresse je vien 1v1 jsuis pas une salope
+2021-05-17T16:04:13.143781 : 2021-05-17:accueillir misère monde "on ne peut pas"
+2021-05-17T16:04:14.335285 : 2021-05-17:boire conduire faut choisir
+2021-05-17T16:04:15.248925 : 2021-05-17:compte rester vierge vie exemple fils "pour être un"
+2021-05-17T16:04:15.502109 : 2021-05-17:damnés terre
+2021-05-17T16:04:17.589124 : @PoliceRealites C'est vrai ça  les dealers sont les " damnés de la terre" et " les forçats de la faim"!🎶
+2021-05-17T16:04:17.597182 : 2021-05-17:espace entendra crier "personne ne vous"
+2021-05-17T16:04:17.848963 : 2021-05-17:infini "et au delà"
+2021-05-17T16:04:20.213820 : 2021-05-17:kiss "c'est le deuxième effet"
+2021-05-17T16:04:20.443947 : 2021-05-17:liberté égalité fraternité
+2021-05-17T16:04:22.408060 : Mais wallah on vie vraiment dans un monde de débiles allez vous faire soigner ma parole !!! « Liberté égalité fraternité »😔
+2021-05-17T16:04:22.413184 : 2021-05-17:omar écrire "ne sait pas"
+2021-05-17T16:04:22.909146 : 2021-05-17:partir mourir
+2021-05-17T16:04:23.804366 : 2021-05-17:pousses bouchon
+2021-05-17T16:04:26.104594 : 2021-05-17:projeeeet "c’ est mon"
+2021-05-17T16:04:26.378339 : got 673 tweets
+2021-05-17T16:04:26.382196 : data/tweets_collectes/corpus_2021-05-17_4.json
+2021-05-17T16:04:26.383366 : ==== END ====
+2021-05-17T16:54:47.599509 : ----START----
+2021-05-17T16:54:47.601168 : ('Already Done (I) :', 0)
+2021-05-17T16:54:47.602492 : 2021-05-17:Boire ou conduire, il faut choisir
+2021-05-17T16:54:48.438552 : 2021-05-17:Casse-toi pauvre con
+2021-05-17T16:54:48.932895 : 2021-05-17:Ce moment où tu X
+2021-05-17T16:54:49.489389 : 2021-05-17:C’est mon projeeeet.
+2021-05-17T16:54:49.726637 : 2021-05-17:Dans l’espace, personne ne vous entendra crier.
+2021-05-17T16:54:49.995820 : 2021-05-17:De quoi X est-il le nom ?
+2021-05-17T16:54:50.223778 : 2021-05-17:Est-ce que tu mèmes ?
+2021-05-17T16:54:51.136271 : 2021-05-17:Je compte rester vierge toute ma vie pour être un exemple pour mon fils.
+2021-05-17T16:54:51.377641 : 2021-05-17:Je traverse la rue et je vous trouve du travail
+2021-05-17T16:54:52.061889 : 2021-05-17:Liberté, égalité, fraternité
+2021-05-17T16:54:53.999785 : @EmmanuelMacron Ici il y a pas de liberté égalité fraternité c’est faux c’est un pays ISLAMOPHOBE !!! 🇵🇸🤲🏽
+2021-05-17T16:54:54.003298 : 2021-05-17:Omar m’a tuer
+2021-05-17T16:54:55.041365 : 2021-05-17:Omar ne sait pas écrire
+2021-05-17T16:54:55.306223 : 2021-05-17:Partir, c'est mourir un peu.
+2021-05-17T16:54:56.175572 : 2021-05-17:Tu veux manger chinois ou chez toi ? 
+2021-05-17T16:54:56.423591 : 2021-05-17:Vers l'infini et au delà
+2021-05-17T16:54:58.871347 : 2021-05-17:X est le nouveau Y
+2021-05-17T16:54:59.302154 : [COMEBACK x @ELASTofficial]🇨🇵Elring‼ ️Que pensez-vous de mes cheveux roses? 🧐C'est un peu étrange car la dernière fois que j'ai teint mes cheveux c'était il y a longtemps, mais c'est beau non ? Veuillez attendre avec impatience le nouveau MV. + https://t.co/iVD3UtzTlM https://t.co/3v1M1H4ElH
+2021-05-17T16:54:59.305723 : 2021-05-17:c'est le deuxième effet Kiss Cool
+2021-05-17T16:54:59.780945 : 2021-05-17:c'est pas prêt, mais c'est pas grave
+2021-05-17T16:55:01.333994 : 2021-05-17:debout les damnés de la terre
+2021-05-17T16:55:01.874012 : 2021-05-17:on ne peut pas accueillir toute la misère du monde
+2021-05-17T16:55:02.963531 : 2021-05-17:tu pousses le bouchon
+2021-05-17T16:55:03.847269 : @Khaabd4 @Kaptaine5 Tu pousses le bouchon un ptit peu trop loin Maurice
+2021-05-17T16:55:03.854923 : 2021-05-17:à la vie, à l'amour
+2021-05-17T16:55:08.132272 : Découvrir la vie à deux, partager ses beautés, dans la confiance, l'unité, l'Amour...quoi de plus beau? https://t.co/W9hw5ayAcp
+2021-05-17T16:55:08.157866 : got 400 tweets
+2021-05-17T16:55:08.161818 : data/tweets_collectes/corpus_2021-05-17_0.json
+2021-05-17T16:55:08.162944 : ==== END ====
+2021-05-18T11:42:15.223758 : ----START----
+2021-05-18T11:42:15.226051 : ('Already Done (I) :', 400)
+2021-05-18T11:42:15.227382 : :Boire ou conduire, il faut choisir until:2021-05-17
+2021-05-18T11:42:15.776604 : :Casse-toi pauvre con until:2021-05-17
+2021-05-18T11:42:16.172127 : :Ce moment où tu X until:2021-05-17
+2021-05-18T11:42:16.698366 : :C’est mon projeeeet. until:2021-05-17
+2021-05-18T11:42:17.462269 : :Dans l’espace, personne ne vous entendra crier. until:2021-05-17
+2021-05-18T11:42:17.873865 : :De quoi X est-il le nom ? until:2021-05-17
+2021-05-18T11:42:18.299570 : :Est-ce que tu mèmes ? until:2021-05-17
+2021-05-18T11:42:18.883448 : :Je compte rester vierge toute ma vie pour être un exemple pour mon fils. until:2021-05-17
+2021-05-18T11:42:19.615262 : :Je traverse la rue et je vous trouve du travail until:2021-05-17
+2021-05-18T11:42:43.671427 : ----START----
+2021-05-18T11:42:43.673013 : ('Already Done (I) :', 0)
+2021-05-18T11:42:43.674326 : :Boire ou conduire, il faut choisir until:2021-05-17
+2021-05-18T11:42:44.624536 : :Casse-toi pauvre con until:2021-05-17
+2021-05-18T11:42:45.392779 : :Ce moment où tu X until:2021-05-17
+2021-05-18T11:42:46.130363 : :C’est mon projeeeet. until:2021-05-17
+2021-05-18T11:42:46.490377 : :Dans l’espace, personne ne vous entendra crier. until:2021-05-17
+2021-05-18T11:42:46.870161 : :De quoi X est-il le nom ? until:2021-05-17
+2021-05-18T11:42:47.242132 : :Est-ce que tu mèmes ? until:2021-05-17
+2021-05-18T11:42:48.467662 : :Je compte rester vierge toute ma vie pour être un exemple pour mon fils. until:2021-05-17
+2021-05-18T11:42:48.847641 : :Je traverse la rue et je vous trouve du travail until:2021-05-17
+2021-05-18T11:42:50.568849 : :Liberté, égalité, fraternité until:2021-05-17
+2021-05-18T11:42:58.959249 : 🇫🇷 Avoir 18ans, devenir Citoyen à part entière : comprendre les enjeux et exercer son droit de vote. #liberté #égalité #fraternité#democratie ✅ https://t.co/UTaiDKYoee
+2021-05-18T11:42:58.967575 : :Omar m’a tuer until:2021-05-17
+2021-05-18T11:42:59.721073 : :Omar ne sait pas écrire until:2021-05-17
+2021-05-18T11:43:00.038987 : :Partir, c'est mourir un peu. until:2021-05-17
+2021-05-18T11:43:01.063969 : :Tu veux manger chinois ou chez toi ?  until:2021-05-17
+2021-05-18T11:43:02.307193 : :Vers l'infini et au delà until:2021-05-17
+2021-05-18T11:43:04.123274 : :X est le nouveau Y until:2021-05-17
+2021-05-18T11:43:05.647789 : :c'est le deuxième effet Kiss Cool until:2021-05-17
+2021-05-18T11:43:06.298825 : :c'est pas prêt, mais c'est pas grave until:2021-05-17
+2021-05-18T11:43:06.942722 : @axel_ko Ah mais c'est sûr. Quelqu'un d'ouvert au debat et qui est prêt à argumenter n'a pas besoin d'en venir aux insultes, surtout aussi vite.Je t'ai mis devant ta propre contradiction et ça t'a énervé. Pas grave, on pourra peut être echanger quand tu seras plus calme. 🙂
+2021-05-18T11:43:06.946105 : :debout les damnés de la terre until:2021-05-17
+2021-05-18T11:43:07.713618 : :on ne peut pas accueillir toute la misère du monde until:2021-05-17
+2021-05-18T11:43:09.371808 : :tu pousses le bouchon until:2021-05-17
+2021-05-18T11:43:12.660496 : :à la vie, à l'amour until:2021-05-17
+2021-05-18T11:43:13.169848 : @achabus @renaudpila Vous qui avez l’air de tout suivre : j’ai bien entendu @renaudpila a bien dit sur @LCI que l’on fait des enfants pour des raisons SOCIOLOGIQUES ??Et l’amour? L’envie d’accompagner une vie?Je suis choquée de la froideur du gars 😳, c’est triste de tout intellectualiser...triste
+2021-05-18T11:43:13.290631 : got 300 tweets
+2021-05-18T11:43:13.296455 : data/tweets_collectes/corpus_2021-05-18_0.json
+2021-05-18T11:43:13.298579 : ==== END ====
+2021-05-18T11:45:25.208317 : ----START----
+2021-05-18T11:45:25.209951 : ('Already Done (I) :', 0)
+2021-05-18T11:45:25.211367 : :Boire ou conduire, il faut choisir until:2021-05-18
+2021-05-18T11:45:26.470596 : :Casse-toi pauvre con until:2021-05-18
+2021-05-18T11:45:27.101596 : :Ce moment où tu X until:2021-05-18
+2021-05-18T11:45:27.826214 : :C’est mon projeeeet. until:2021-05-18
+2021-05-18T11:45:28.119535 : :Dans l’espace, personne ne vous entendra crier. until:2021-05-18
+2021-05-18T11:45:28.407477 : :De quoi X est-il le nom ? until:2021-05-18
+2021-05-18T11:45:28.722854 : :Est-ce que tu mèmes ? until:2021-05-18
+2021-05-18T11:45:29.901225 : :Je compte rester vierge toute ma vie pour être un exemple pour mon fils. until:2021-05-18
+2021-05-18T11:45:30.194856 : :Je traverse la rue et je vous trouve du travail until:2021-05-18
+2021-05-18T11:45:30.805111 : :Liberté, égalité, fraternité until:2021-05-18
+2021-05-18T11:45:37.434502 : Le pass sanitaire anéantit la liberté en généralisant la surveillance des corps. Il sape l'égalité en créant des citoyens de seconde zone qui refusent le chemin damé par le bio-pouvoir. Il tue la fraternité, l'autre étant regardé en chien de faïence. https://t.co/7biMQ9BfqJ
+2021-05-18T11:45:37.441558 : :Omar m’a tuer until:2021-05-18
+2021-05-18T11:45:38.246160 : :Omar ne sait pas écrire until:2021-05-18
+2021-05-18T11:45:38.619338 : :Partir, c'est mourir un peu. until:2021-05-18
+2021-05-18T11:45:39.496765 : :Tu veux manger chinois ou chez toi ?  until:2021-05-18
+2021-05-18T11:45:39.817172 : :Vers l'infini et au delà until:2021-05-18
+2021-05-18T11:45:42.347876 : :X est le nouveau Y until:2021-05-18
+2021-05-18T11:45:43.458276 : Bon pour faire simple sur le nouveau maillot du psg : tu l'aimes pas pour x raison c'est ton choix mais vient pas cassez les pieds a celui qui le trouve beau et veut le porter   Y a du bleu , y a du blanc , bande ou pas bande ça reste aux couleurs du club
+2021-05-18T11:45:43.462215 : :c'est le deuxième effet Kiss Cool until:2021-05-18
+2021-05-18T11:45:44.227249 : :c'est pas prêt, mais c'est pas grave until:2021-05-18
+2021-05-18T11:45:45.410783 : :debout les damnés de la terre until:2021-05-18
+2021-05-18T11:45:46.229942 : :on ne peut pas accueillir toute la misère du monde until:2021-05-18
+2021-05-18T11:45:47.836818 : :tu pousses le bouchon until:2021-05-18
+2021-05-18T11:45:50.292455 : Quel commentaire 😲 Maurice tu pousses le bouchon ... 🤭🤡 @AnasseKazib https://t.co/xSu5Rip4aX
+2021-05-18T11:45:50.298086 : :à la vie, à l'amour until:2021-05-18
+2021-05-18T11:45:55.405737 : La lutte contre l'#homophobie, la #transphobie et la #biphobie est l'un des combats de ma vie.Il n'y a pas d'amour censure, il n'y a que de l'amour sincère. Merci pour ce film touchant @benoitpetre @Francetele @TETUmag @HoshiOfficial #VanessaParadis.#IDAHOT2021#17mai https://t.co/jdF4hymne1
+2021-05-18T11:45:55.431733 : got 400 tweets
+2021-05-18T11:45:55.434789 : data/tweets_collectes/corpus_2021-05-18_1.json
+2021-05-18T11:45:55.435881 : ==== END ====
+2021-05-18T15:22:47.974549 : ----START----
+2021-05-18T15:22:47.977242 : ('Already Done (I) :', 400)
+2021-05-18T15:22:47.978747 : :Boire ou conduire, il faut choisir
+2021-05-18T15:22:48.609463 : :Casse-toi pauvre con
+2021-05-18T15:22:48.960140 : :Ce moment où tu X
+2021-05-18T15:22:49.425240 : :C’est mon projeeeet.
+2021-05-18T15:22:49.709975 : :Dans l’espace, personne ne vous entendra crier.
+2021-05-18T15:22:50.023479 : :De quoi X est-il le nom ?
+2021-05-18T15:22:50.319095 : :Est-ce que tu mèmes ?
+2021-05-18T15:22:50.759260 : :Je compte rester vierge toute ma vie pour être un exemple pour mon fils.
+2021-05-18T15:22:51.093760 : :Je traverse la rue et je vous trouve du travail
+2021-05-18T15:22:51.439927 : :Liberté, égalité, fraternité
+2021-05-18T15:22:55.886954 : Le pass sanitaire anéantit la liberté en généralisant la surveillance des corps. Il sape l'égalité en créant des citoyens de seconde zone qui refusent le chemin damé par le bio-pouvoir. Il tue la fraternité, l'autre étant regardé en chien de faïence. https://t.co/7biMQ9BfqJ
+2021-05-18T15:22:55.891979 : :Omar m’a tuer
+2021-05-18T15:22:56.534412 : :Omar ne sait pas écrire
+2021-05-18T15:22:56.841355 : :Partir, c'est mourir un peu.
+2021-05-18T15:22:57.586326 : :Tu veux manger chinois ou chez toi ?
+2021-05-18T15:24:27.875558 : ----START----
+2021-05-18T15:24:27.877705 : ('Already Done (I) :', 0)
+2021-05-18T15:24:27.879525 : :Boire ou conduire, il faut choisir  until:2021-05-18
+2021-05-18T15:24:28.814295 : :Casse-toi pauvre con until:2021-05-18
+2021-05-18T15:24:29.493606 : :Ce moment où tu X until:2021-05-18
+2021-05-18T15:24:30.188534 : :C’est mon projeeeet. until:2021-05-18
+2021-05-18T15:24:30.477540 : :Dans l’espace, personne ne vous entendra crier. until:2021-05-18
+2021-05-18T15:24:30.782506 : :De quoi X est-il le nom ? until:2021-05-18
+2021-05-18T15:24:31.086162 : :Est-ce que tu mèmes ? until:2021-05-18
+2021-05-18T15:24:32.065974 : :Je compte rester vierge toute ma vie pour être un exemple pour mon fils. until:2021-05-18
+2021-05-18T15:24:32.350260 : :Je traverse la rue et je vous trouve du travail until:2021-05-18
+2021-05-18T15:24:32.944833 : :Liberté, égalité, fraternité until:2021-05-18
+2021-05-18T15:24:35.610172 : Le pass sanitaire anéantit la liberté en généralisant la surveillance des corps. Il sape l'égalité en créant des citoyens de seconde zone qui refusent le chemin damé par le bio-pouvoir. Il tue la fraternité, l'autre étant regardé en chien de faïence. https://t.co/7biMQ9BfqJ
+2021-05-18T15:24:35.615125 : :Omar m’a tuer until:2021-05-18
+2021-05-18T15:24:36.304198 : :Omar ne sait pas écrire until:2021-05-18
+2021-05-18T15:24:36.579304 : :Partir, c'est mourir un peu. until:2021-05-18
+2021-05-18T15:24:37.355428 : :Tu veux manger chinois ou chez toi ? until:2021-05-18
+2021-05-18T15:24:37.647640 : :Vers l'infini et au delà until:2021-05-18
+2021-05-18T15:24:40.005014 : :X est le nouveau Y until:2021-05-18
+2021-05-18T15:24:41.058441 : Bon pour faire simple sur le nouveau maillot du psg : tu l'aimes pas pour x raison c'est ton choix mais vient pas cassez les pieds a celui qui le trouve beau et veut le porter   Y a du bleu , y a du blanc , bande ou pas bande ça reste aux couleurs du club
+2021-05-18T15:24:41.064302 : :c'est le deuxième effet Kiss Cool until:2021-05-18
+2021-05-18T15:24:41.775746 : :c'est pas prêt, mais c'est pas grave until:2021-05-18
+2021-05-18T15:24:43.004958 : :debout les damnés de la terre until:2021-05-18
+2021-05-18T15:24:43.867830 : :on ne peut pas accueillir toute la misère du monde until:2021-05-18
+2021-05-18T15:24:45.450193 : :tu pousses le bouchon until:2021-05-18
+2021-05-18T15:24:47.188948 : @houari_guermat Cher Houari, je sais que nous sommes en période électorale, mais je trouve que tu pousses un peu le bouchon. Comparer @LREM et le @RNational_off , est un peu gros
+2021-05-18T15:24:47.193968 : :à la vie, à l'amour until:2021-05-18
+2021-05-18T15:24:51.867515 : Jésus est mort à la croix pour ceux :🔸qu’on aime🔸qu’on ne considère pas🔸qu’on ne porte pas dans nos cœurs🔸qu’on estime bons🔸qu’on estime mauvais 🔸qui ne vont pas à l’Église🔸qu’on juge négativementIl est mort pour nous tous par amour afin de nous donner la vie.
+2021-05-18T15:24:51.889881 : got 400 tweets
+2021-05-18T15:24:52.006206 : data/tweets_collectes/corpus_2021-05-18_0.json
+2021-05-18T15:24:52.008611 : ==== END ====
+2021-05-18T15:34:14.313181 : ----START----
+2021-05-18T15:34:14.316032 : ('Already Done (I) :', 0)
+2021-05-18T15:34:14.317634 : :boire ou conduire il faut choisir until:2021-05-18
+2021-05-18T15:34:15.079591 : :c'est le deuxième effet kiss cool until:2021-05-18
+2021-05-18T15:34:15.709542 : :c'est pas prêt mais c'est pas grave until:2021-05-18
+2021-05-18T15:34:16.866001 : :casse-toi pauvre con until:2021-05-18
+2021-05-18T15:34:17.509107 : :ce moment où tu until:2021-05-18
+2021-05-18T15:34:19.635153 : @univxrsepeach Désolé, c'est une légende urbaine, c'est juste un hasard qui fait qu'au moment où les poils commencent à pousser bah tu fais une de ces méthodes en même temps, mais en réalité ce qui a fonctionné c'est pas ça mais les hormones xd
+2021-05-18T15:34:19.639907 : :c’ est mon projeeeet until:2021-05-18
+2021-05-18T15:34:19.717882 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=c%E2%80%99+est+mon+projeeeet+until%3A2021-05-18&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),))
+2021-05-18T15:34:19.722750 : :dans l’ espace personne ne vous entendra crier until:2021-05-18
+2021-05-18T15:34:20.026551 : :de quoi est-il le nom until:2021-05-18
+2021-05-18T15:34:23.756182 : :debout les damnés de la terre until:2021-05-18
+2021-05-18T15:34:24.745042 : :est le nouveau until:2021-05-18
+2021-05-18T15:34:26.149535 : @Frdric___Marie @Bayrou  est incompétent , ce n est pas nouveau au sinon il aurait déjà occupé un poste important dans quelque gouvernement que ce soit or ce n est pas le cas .Un mec sans conviction qui va là où le vent le porte , une merde sans amour propre 🤮
+2021-05-18T15:34:26.154735 : :est-ce que tu mèmes until:2021-05-18
+2021-05-18T15:34:27.286012 : :je compte rester vierge toute ma vie pour être un exemple pour mon fils until:2021-05-18
+2021-05-18T15:34:27.577310 : :je traverse la rue et je vous trouve du travail until:2021-05-18
+2021-05-18T15:34:28.189361 : :liberté égalité fraternité until:2021-05-18
+2021-05-18T15:34:32.154034 : Les sénateurs n’ont visiblement pas compris que la majorité des citoyens n’en veulent pas de ce #PassDeLaHonte LIBERTÉ - ÉGALITÉ - FRATERNITÉ Visiblement nos élus oublient les fondements de notre République #LibertesFondamentales https://t.co/CZ6m9JkjK3
+2021-05-18T15:34:32.157852 : :omar m’ a tuer until:2021-05-18
+2021-05-18T15:34:32.960127 : :omar ne sait pas écrire until:2021-05-18
+2021-05-18T15:34:33.270842 : :on ne peut pas accueillir toute la misère du monde until:2021-05-18
+2021-05-18T15:34:34.959691 : :partir c'est mourir un peu until:2021-05-18
+2021-05-18T15:34:36.019745 : :tu pousses le bouchon until:2021-05-18
+2021-05-18T15:34:38.066366 : @edwyplenel @Mediapart Après avoir calculé ma balance risque bénéfice personnel par mon outil interne qui s’appelle un cerveau , le résultat est sans appel « se désabonner de médiapart »...tu pousses le bouchon un peu trop loin @edwyplenel
+2021-05-18T15:34:38.074971 : :tu veux manger chinois ou chez toi until:2021-05-18
+2021-05-18T15:34:38.384527 : :vers l'infini et au delà until:2021-05-18
+2021-05-18T15:34:40.591985 : :à la vie à l'amour until:2021-05-18
+2021-05-18T15:34:43.399365 : 🏳️‍🌈 En ce 17 mai a lieu la journée internationale contre l'homophobie💜💜💜💜 pleins d'amour et de bonheur pour tous ! Laissons les gens vivre leur vie tranquillement et heureux !
+2021-05-18T15:34:43.449584 : got 500 tweets
+2021-05-18T15:34:43.453005 : data/tweets_collectes/corpus_2021-05-18_1.json
+2021-05-18T15:34:43.454088 : ==== END ====
+2021-05-18T17:03:55.771087 : ----START----
+2021-05-18T17:03:55.772697 : ('Already Done (I) :', 0)
+2021-05-18T17:03:55.773593 : :boire ou conduire il faut choisir
+2021-05-18T17:03:57.273063 : :c'est le deuxième effet kiss cool
+2021-05-18T17:03:58.011783 : :c'est pas prêt mais c'est pas grave
+2021-05-18T17:04:00.053675 : :casse-toi pauvre con
+2021-05-18T17:04:01.314412 : :ce moment où tu
+2021-05-18T17:04:05.302875 : @AgentoSecretoV2 @HugAnas_ @Rivaldoway Est-ce que tu vois un favoris pour la suite du Barça ? Ou en ce moment c'est complètement flou ? On entend tout et n'importe quoi, un coup Xavi est même pas envisagé, un coup Koeman continue, un autre Xavi est à deux doigts de lui succéder,....
+2021-05-18T17:04:05.309693 : :c’est mon projeeeet
+2021-05-18T17:04:05.688275 : :dans l’espace personne ne vous entendra crier
+2021-05-18T17:04:05.990904 : :de quoi est-il le nom
+2021-05-18T17:04:11.900614 : Twitter error response: status code = 503
+2021-05-18T17:04:11.902772 : :debout les damnés de la terre
+2021-05-18T17:04:14.074141 : :est le nouveau
+2021-05-18T17:04:15.900230 : 🎁#Concours🎁Gagnez le nouveau Comics Marvel Verse : Deadpool de @paninicomicsfra !🦸‍♂️Pour participer : RT &amp; Follow @journaldugeek + @paninicomicsfra 👉Pour plus d'infos, c'est ici : https://t.co/x7dAPfh2rQ https://t.co/sc7dGytX9c
+2021-05-18T17:04:15.910239 : :est-ce que tu mèmes
+2021-05-18T17:04:17.178322 : :je compte rester vierge toute ma vie pour être un exemple pour mon fils
+2021-05-18T17:04:17.474170 : :je traverse la rue et je vous trouve du travail
+2021-05-18T17:04:18.113249 : :liberté égalité fraternité
+2021-05-18T17:04:27.036509 : Ces chiffres sont d’un démographe. Inspirez un coup @fxbellamy et voyez la France telle qu’elle est. Les races n’existent pas. Le métissage est un mélange entre Français. Notre nation n’est pas ethnique mais politique. Liberté, Egalité, Fraternité : Français ! Unité populaire ! https://t.co/cUyZPZMukn
+2021-05-18T17:04:27.043668 : :omar m’a tuer
+2021-05-18T17:04:28.183034 : :omar ne sait pas écrire
+2021-05-18T17:04:28.495729 : :on ne peut pas accueillir toute la misère du monde
+2021-05-18T17:04:30.568768 : :partir c'est mourir un peu
+2021-05-18T17:04:32.479076 : :tu pousses le bouchon
+2021-05-18T17:04:36.043189 : @ss_joestar toi par contre tu pousses le bouchon loin vive la bigi
+2021-05-18T17:04:36.046733 : :tu veux manger chinois ou chez toi
+2021-05-18T17:04:36.488357 : :vers l'infini et au delà
+2021-05-18T17:04:39.692088 : :à la vie à l'amour
+2021-05-18T17:04:43.109653 : Célébrer la vie, c’est célébrer nos mamans❤️.A l’occasion de la fête des Mères, votre service de référence ✨MY GIFT🎁vous proposes ces différents packs de diverses natures pour vous accompagner à sublimer celle là qui pour vous incarne au mieux l’amour inconditionnel ❤️Jj-12🥳 https://t.co/V0ikqZHGXW
+2021-05-18T17:04:43.130224 : got 500 tweets
+2021-05-18T17:04:43.134819 : data/tweets_collectes/corpus_2021-05-18_0.json
+2021-05-18T17:04:43.135863 : ==== END ====
+2021-05-18T17:05:00.927618 : ----START----
+2021-05-18T17:05:00.929109 : ('Already Done (I) :', 500)
+2021-05-18T17:05:00.930392 : : "c'est pas prêt" "mais c'est pas grave"
+2021-05-18T17:05:01.271052 : : "est le nouveau"
+2021-05-18T17:05:02.901057 : :accueillir misère monde "on ne peut pas"
+2021-05-18T17:05:04.130469 : :boire conduire faut choisir
+2021-05-18T17:05:15.984693 : ----START----
+2021-05-18T17:05:15.986265 : ('Already Done (I) :', 0)
+2021-05-18T17:05:15.987555 : : "c'est pas prêt" "mais c'est pas grave"
+2021-05-18T17:05:16.615448 : : "est le nouveau"
+2021-05-18T17:05:28.788605 : Après @FR_Conversation, @RadioCanadaInfo est le nouveau partenaire de l’Ecole d’été Mer &amp; Journalisme organisée par l’@ESJLille, l’@IFQMer, le @ClubPresseBZH et @Oceanopolis. Inscriptions jusqu’au 15 juillet. https://t.co/cd7q5tSBl3@ISblue_school @UBO_UnivBrest @CNRS @ird_fr https://t.co/jUSAn1uXlL
+2021-05-18T17:05:28.795394 : :accueillir misère monde "on ne peut pas"
+2021-05-18T17:05:33.811024 : :boire conduire faut choisir
+2021-05-18T17:05:35.728547 : :casse-toi pauvre con
+2021-05-18T17:05:38.118648 : :ce moment où tu
+2021-05-18T17:05:39.901435 : Failed to parse JSON payload: Unterminated string starting at: line 1 column 40757 (char 40756)
+2021-05-18T17:05:39.906199 : :ce mèmes
+2021-05-18T17:05:44.077515 : mdr alors du coup bah non ?les palestiniens préfèrent tout à l'exil, car ce serai abandonner le territoire au colonisateurs, ils restent dans leurs terres légitimes, les familles dans les camps du Liban ou de Cis-Jordanie elles mêmes ne veulent que d'une chose c'est revenir. https://t.co/CxrWZtWpPq
+2021-05-18T17:05:44.080625 : :compte rester vierge vie exemple fils "pour être un"
+2021-05-18T17:05:44.433801 : :damnés terre
+2021-05-18T17:05:51.820605 : ✊Les dealers, les damnés de la terre !Non mais, on croit rêver... ☹#LFI https://t.co/UaYC1SZ1SL
+2021-05-18T17:05:51.823940 : :espace entendra crier "personne ne vous"
+2021-05-18T17:05:52.239248 : :il nom
+2021-05-18T17:06:00.558045 : La Toei Animation vient de déposer le nom de domaine : "https://t.co/6GcxGAa3uP"Il se pourrait donc qu'un nouveau film One Piece soit en production même si rien n'est encore confirmé, on vous tiens bien sûr au courant ! https://t.co/uhlJSy5wfo
+2021-05-18T17:06:00.561333 : :infini "et au delà"
+2021-05-18T17:06:03.853060 : :kiss "c'est le deuxième effet"
+2021-05-18T17:06:04.136021 : :liberté égalité fraternité
+2021-05-18T17:06:09.089398 : Ces chiffres sont d’un démographe. Inspirez un coup @fxbellamy et voyez la France telle qu’elle est. Les races n’existent pas. Le métissage est un mélange entre Français. Notre nation n’est pas ethnique mais politique. Liberté, Egalité, Fraternité : Français ! Unité populaire ! https://t.co/cUyZPZMukn
+2021-05-18T17:06:09.094384 : :omar écrire "ne sait pas"
+2021-05-18T17:06:09.398458 : :partir mourir
+2021-05-18T17:06:15.287158 : Un vieil homme attaché à son logement, un nouveau propriétaire qui se décrit comme un &lt;agent de gentrification&gt; dans le quartier Verdun. S’ensuit une véritable tragédie / ACTUALITÉS - Mourir plutôt que partir https://t.co/1CRRl1n6u5
+2021-05-18T17:06:15.293443 : :pousses bouchon
+2021-05-18T17:06:16.161632 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?max_id=1393975371582824447&q=pousses+bouchon&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),))
+2021-05-18T17:06:16.167881 : :projeeeet "c’est mon"
+2021-05-18T17:06:16.753306 : :traverse rue trouve travail "et je vous"
+2021-05-18T17:06:17.610721 : :tuer "omar m’a"
+2021-05-18T17:06:19.217671 : :veux manger "chinois ou chez toi"
+2021-05-18T17:06:21.165279 : :vie amour
+2021-05-18T17:06:28.020915 : @fubukiyoshe La vie en rose et l’hymne à l’amour de Edith Piaf pour ma mamie ✨
+2021-05-18T17:06:28.042317 : got 700 tweets
+2021-05-18T17:06:28.048827 : data/tweets_collectes/corpus_2021-05-18_1.json
+2021-05-18T17:06:28.050089 : ==== END ====
+2021-05-21T11:18:50.090593 : ----START----
+2021-05-21T11:18:50.094226 : ('Already Done (I) :', 0)
+2021-05-21T11:18:50.095837 : 2021-05-18:boire ou conduire il faut choisir
+2021-05-21T11:18:51.885977 : 2021-05-18:c'est le deuxième effet kiss cool
+2021-05-21T11:18:52.285463 : 2021-05-18:c'est pas prêt mais c'est pas grave
+2021-05-21T11:18:54.007617 : 2021-05-18:casse-toi pauvre con
+2021-05-21T11:18:54.825548 : 2021-05-18:ce moment où tu
+2021-05-21T11:18:57.479331 : @RocRemid C’est weird 🤔Malheureusement je ne saurais te dire où tu pourrais poser la question. En ce moment, ça change rien de l’avoir, donc je ne sais pas si j’attendrais de voir si je vais le recevoir après la deuxième dose, ou si je poserais la question à @pozappaTVA 😜
+2021-05-21T11:18:57.482128 : 2021-05-18:c’est mon projeeeet
+2021-05-21T11:18:57.907765 : 2021-05-18:dans l’espace personne ne vous entendra crier
+2021-05-21T11:18:58.826478 : 2021-05-18:de quoi est-il le nom
+2021-05-21T11:19:09.366742 : De quoi le #DIESELGATE  est-il le nom ?      (Episode 1), par @cleguevaques31 via @MediapartBlogs https://t.co/Sm5XRmBjrV @ccvavocat @MySMARTcab
+2021-05-21T11:19:09.369986 : 2021-05-18:debout les damnés de la terre
+2021-05-21T11:19:10.285591 : 2021-05-18:est le nouveau
+2021-05-21T11:19:16.750737 : @Benzaie_tgwtg Ca coute rien au depart, c'est qu'une suggestion parmi 50 a 20 gars. Mais ça peut faire un effet boule de neige qui génère de la vue/de la vie sur la plateforme sans même dépendre de nouveau contenu.Pour le coup, bonne boule de neige.
+2021-05-21T11:19:16.753894 : 2021-05-18:est-ce que tu mèmes
+2021-05-21T11:19:18.487640 : 2021-05-18:je compte rester vierge toute ma vie pour être un exemple pour mon fils
+2021-05-21T11:19:19.002872 : 2021-05-18:je traverse la rue et je vous trouve du travail
+2021-05-21T11:19:20.222330 : 2021-05-18:liberté égalité fraternité
+2021-05-21T11:19:24.772962 : Une intuition ce confirme.pas plusieurs avis Medical sources.les personnes vaccinés peuvent contaminé les personnes non vaccinés.a médité avec respect 🙏🙏🏽✨✨une société où chacun pour soi,un pays d égoïste…liberté égalité fraternité 🌹🌹🌹✨ https://t.co/jeGHPFK3E7
+2021-05-21T11:19:24.776269 : 2021-05-18:omar m’a tuer
+2021-05-21T11:19:26.371815 : 2021-05-18:omar ne sait pas écrire
+2021-05-21T11:19:28.927606 : 2021-05-18:on ne peut pas accueillir toute la misère du monde
+2021-05-21T11:19:29.867021 : 2021-05-18:partir c'est mourir un peu
+2021-05-21T11:19:31.717827 : 2021-05-18:tu pousses le bouchon
+2021-05-21T11:19:33.421910 : @Rod___Serling Tu pousses un peu le bouchon trop loin!
+2021-05-21T11:19:33.424420 : 2021-05-18:tu veux manger chinois ou chez toi
+2021-05-21T11:19:38.863985 : 2021-05-18:vers l'infini et au delà
+2021-05-21T11:19:41.223051 : 2021-05-18:à la vie à l'amour
+2021-05-21T11:19:44.083938 : "Le cinéma, c’est la vie elle-même. L’amour, l’amitié, la révolte : tous ces sentiments qui font l’homme." 📽️Inaccessibles depuis des mois, les cinémas font à nouveau salle comble. Retour en 1962, en pleine époque ciné-club, quand la jeunesse déferlait dans les salles obscures ! https://t.co/exRKLPw0vl
+2021-05-21T11:19:44.531135 : got 600 tweets
+2021-05-21T11:19:44.533663 : data/tweets_collectes/corpus_2021-05-21_0.json
+2021-05-21T11:19:44.535871 : ==== END ====
+2021-05-21T11:19:46.592475 : ----START----
+2021-05-21T11:19:46.594202 : ('Already Done (I) :', 0)
+2021-05-21T11:19:46.595875 : 2021-05-18: "c'est pas prêt" "mais c'est pas grave"
+2021-05-21T11:19:52.072256 : 2021-05-18: "est le nouveau"
+2021-05-21T11:19:57.069157 : @LPLdirect Ce gouvernement, c'est le nouveau 'café de la gare' (Coluche et Cie)
+2021-05-21T11:19:57.076925 : 2021-05-18:accueillir misère monde "on ne peut pas"
+2021-05-21T11:19:58.176582 : 2021-05-18:boire conduire faut choisir
+2021-05-21T11:19:59.760376 : 2021-05-18:casse-toi pauvre con
+2021-05-21T11:20:00.674983 : 2021-05-18:ce moment où tu
+2021-05-21T11:20:03.870391 : @Lina91N Non mais 😭 je sais vraiment pas pk tu te lève Jsuis d’éco de Twitter en ce moment je loupe tout y’a qlq chose de spécial ?? ou c’est juste t’arrive pas à te lever pour les cours? 😂😂
+2021-05-21T11:20:03.873088 : 2021-05-18:ce mèmes
+2021-05-21T11:20:05.375557 : 2021-05-18:compte rester vierge vie exemple fils "pour être un"
+2021-05-21T11:20:05.748295 : 2021-05-18:damnés terre
+2021-05-21T11:20:10.557146 : 2021-05-18:espace entendra crier "personne ne vous"
+2021-05-21T11:20:11.373457 : 2021-05-18:il nom
+2021-05-21T11:20:12.021946 : C’est le premier rappeur que j’ai vu en concert il était trop fort, faut mettre un peu de respect sur le nom de la Fouine il a trop de classique https://t.co/vxIhrCjkYF
+2021-05-21T11:20:12.024869 : 2021-05-18:infini "et au delà"
+2021-05-21T11:20:19.281937 : 2021-05-18:kiss "c'est le deuxième effet"
+2021-05-21T11:20:19.722120 : 2021-05-18:liberté égalité fraternité
+2021-05-21T11:20:22.989671 : Le pass sanitaire anéantit la liberté en généralisant la surveillance des corps. Il sape l'égalité en créant des citoyens de seconde zone qui refusent le chemin damé par le bio-pouvoir. Il tue la fraternité, l'autre étant regardé en chien de faïence. https://t.co/7biMQ9BfqJ
+2021-05-21T11:20:22.992253 : 2021-05-18:omar écrire "ne sait pas"
+2021-05-21T11:20:23.504102 : 2021-05-18:partir mourir
+2021-05-21T11:20:29.163650 : Il faut regarder ce documentaire. Dur. Bouleversant. Indispensable. Il permet de saisir l’infinie souffrance des personnes confrontées à des maladies incurables, contraintes de partir à l’étranger pour mourir dans la dignité. Merci @A2lan_H @konbininews https://t.co/PMSPoz0rPD
+2021-05-21T11:20:29.166723 : 2021-05-18:pousses bouchon
+2021-05-21T11:20:33.024837 : 2021-05-18:projeeeet "c’est mon"
+2021-05-21T11:20:33.542399 : 2021-05-18:traverse rue trouve travail "et je vous"
+2021-05-21T11:20:34.574104 : 2021-05-18:tuer "omar m’a"
+2021-05-21T11:20:41.322254 : 2021-05-18:veux manger "chinois ou chez toi"
+2021-05-21T11:20:41.679661 : 2021-05-18:vie amour
+2021-05-21T11:20:42.943420 : MIN YOONGI L'AMOUR DE MA VIE  https://t.co/jPZmkAFMr9
+2021-05-21T11:20:43.081105 : got 600 tweets
+2021-05-21T11:20:43.083664 : data/tweets_collectes/corpus_2021-05-21_1.json
+2021-05-21T11:20:43.085693 : ==== END ====
+2021-05-21T11:25:51.201229 : ----START----
+2021-05-21T11:25:51.202459 : ('Already Done (I) :', 0)
+2021-05-21T11:25:51.203648 : 2021-05-21:boire ou conduire il faut choisir
+2021-05-21T11:25:57.848655 : 2021-05-21:c'est le deuxième effet kiss cool
+2021-05-21T11:25:58.223313 : 2021-05-21:c'est pas prêt mais c'est pas grave
+2021-05-21T11:26:00.174399 : 2021-05-21:casse-toi pauvre con
+2021-05-21T11:26:01.103351 : 2021-05-21:ce moment où tu
+2021-05-21T11:26:04.397641 : @RocRemid C’est weird 🤔Malheureusement je ne saurais te dire où tu pourrais poser la question. En ce moment, ça change rien de l’avoir, donc je ne sais pas si j’attendrais de voir si je vais le recevoir après la deuxième dose, ou si je poserais la question à @pozappaTVA 😜
+2021-05-21T11:26:04.400548 : 2021-05-21:c’est mon projeeeet
+2021-05-21T11:26:04.806811 : 2021-05-21:dans l’espace personne ne vous entendra crier
+2021-05-21T11:26:05.735620 : 2021-05-21:de quoi est-il le nom
+2021-05-21T11:26:11.217479 : De quoi le #DIESELGATE  est-il le nom ?      (Episode 1), par @cleguevaques31 via @MediapartBlogs https://t.co/Sm5XRmBjrV @ccvavocat @MySMARTcab
+2021-05-21T11:26:11.223712 : 2021-05-21:debout les damnés de la terre
+2021-05-21T11:26:12.384654 : 2021-05-21:est le nouveau
+2021-05-21T11:26:18.141124 : Le 18 mai 2002, le PSC devenait ⁦@lecdh⁩ .19 ans plus tard, le parti est à nouveau en pleine refondation avec ⁦@FeraBeau⁩ . L’histoire se répète-t-elle pr le Cdh? Réponse dans le podcast #4saisons avec ⁦@Himad⁩ et ⁦@laurentdebriey⁩  https://t.co/VsL463qqtt
+2021-05-21T11:26:18.144291 : 2021-05-21:est-ce que tu mèmes
+2021-05-21T11:26:19.804725 : 2021-05-21:je compte rester vierge toute ma vie pour être un exemple pour mon fils
+2021-05-21T11:26:20.195303 : 2021-05-21:je traverse la rue et je vous trouve du travail
+2021-05-21T11:26:21.129018 : 2021-05-21:liberté égalité fraternité
+2021-05-21T11:26:24.677472 : @JULIELE55397745 @Guillaume_Bigot @VAplus_ 1 jeune de 14 ans contre des millions contre le RN, devine qui va gagner 😘 2022 sera une énième désillusion pour les fachos 😉 La VRAI France c’est celle anti racisme car notre devise est LIBERTÉ ÉGALITÉ .. FRATERNITÉ ! #TOUTSAUFRN
+2021-05-21T11:26:24.681057 : 2021-05-21:omar m’a tuer
+2021-05-21T11:26:26.514935 : 2021-05-21:omar ne sait pas écrire
+2021-05-21T11:26:26.932702 : 2021-05-21:on ne peut pas accueillir toute la misère du monde
+2021-05-21T11:26:27.953562 : 2021-05-21:partir c'est mourir un peu
+2021-05-21T11:26:34.718013 : 2021-05-21:tu pousses le bouchon
+2021-05-21T11:26:35.114224 : Twitter error response: status code = 429
+2021-05-21T11:26:35.130575 : got 457 tweets
+2021-05-21T11:26:35.131857 : data/tweets_collectes/corpus_2021-05-21_0.json
+2021-05-21T11:26:35.132787 : ==== END ====
+2021-05-21T11:26:36.804225 : ----START----
+2021-05-21T11:26:36.805321 : ('Already Done (I) :', 0)
+2021-05-21T11:26:36.806457 : 2021-05-21: "c'est pas prêt" "mais c'est pas grave"
+2021-05-21T11:27:19.080935 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=+%22c%27est+pas+pr%C3%AAt%22+%22mais+c%27est+pas+grave%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f762711bc50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.105873 : 2021-05-21: "est le nouveau"
+2021-05-21T11:27:19.247053 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=+%22est+le+nouveau%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f762711bf28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.263645 : 2021-05-21:accueillir misère monde "on ne peut pas"
+2021-05-21T11:27:19.287159 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=accueillir+mis%C3%A8re+monde+%22on+ne+peut+pas%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1278>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.294594 : 2021-05-21:boire conduire faut choisir
+2021-05-21T11:27:19.317314 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=boire+conduire+faut+choisir&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c14e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.321521 : 2021-05-21:casse-toi pauvre con
+2021-05-21T11:27:19.344449 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=casse-toi+pauvre+con&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1390>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.354152 : 2021-05-21:ce moment où tu
+2021-05-21T11:27:19.399704 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=ce+moment+o%C3%B9+tu&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1b38>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.406497 : 2021-05-21:ce mèmes
+2021-05-21T11:27:19.433836 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=ce+m%C3%A8mes&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1e80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.438679 : 2021-05-21:compte rester vierge vie exemple fils "pour être un"
+2021-05-21T11:27:19.458995 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=compte+rester+vierge+vie+exemple+fils+%22pour+%C3%AAtre+un%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270d80b8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.464236 : 2021-05-21:damnés terre
+2021-05-21T11:27:19.484963 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=damn%C3%A9s+terre&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270d8438>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.489042 : 2021-05-21:espace entendra crier "personne ne vous"
+2021-05-21T11:27:19.509870 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=espace+entendra+crier+%22personne+ne+vous%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270d8710>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.513881 : 2021-05-21:il nom
+2021-05-21T11:27:19.531993 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=il+nom&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270d8550>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.535434 : 2021-05-21:infini "et au delà"
+2021-05-21T11:27:19.553179 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=infini+%22et+au+del%C3%A0%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270d8dd8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.556737 : 2021-05-21:kiss "c'est le deuxième effet"
+2021-05-21T11:27:19.578864 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=kiss+%22c%27est+le+deuxi%C3%A8me+effet%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270e5080>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.586533 : 2021-05-21:liberté égalité fraternité
+2021-05-21T11:27:19.616823 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=libert%C3%A9+%C3%A9galit%C3%A9+fraternit%C3%A9&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270d8358>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.621397 : 2021-05-21:omar écrire "ne sait pas"
+2021-05-21T11:27:19.654631 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=omar+%C3%A9crire+%22ne+sait+pas%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1e80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.658306 : 2021-05-21:partir mourir
+2021-05-21T11:27:19.681054 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=partir+mourir&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1b38>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.686294 : 2021-05-21:pousses bouchon
+2021-05-21T11:27:19.719278 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=pousses+bouchon&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1e80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.724673 : 2021-05-21:projeeeet "c’est mon"
+2021-05-21T11:27:19.751052 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=projeeeet+%22c%E2%80%99est+mon%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1f28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.755268 : 2021-05-21:traverse rue trouve travail "et je vous"
+2021-05-21T11:27:19.796938 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=traverse+rue+trouve+travail+%22et+je+vous%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1710>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.838351 : 2021-05-21:tuer "omar m’a"
+2021-05-21T11:27:19.866358 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=tuer+%22omar+m%E2%80%99a%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f762711b2e8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.870400 : 2021-05-21:veux manger "chinois ou chez toi"
+2021-05-21T11:27:19.885466 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=veux+manger+%22chinois+ou+chez+toi%22&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f76270c1438>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.889358 : 2021-05-21:vie amour
+2021-05-21T11:27:19.910521 : Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/search/tweets.json?q=vie+amour&rpp=100&result_type=recent&include_entities=True&lang=fr&tweet_mode=extended (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f762711b438>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2021-05-21T11:27:19.988065 : got 0 tweets
+2021-05-21T11:27:19.992651 : data/tweets_collectes/corpus_2021-05-21_1.json
+2021-05-21T11:27:19.996435 : ==== END ====

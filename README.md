@@ -36,7 +36,8 @@ Le répertoire **data** contient les sous-répertoires suivants :
 - **tweets_collectes** contient les fichiers de sortie (au format json) du script de collecte, fichiers qui seront ensuite passés en entrée du script de filtrage
 - **seeds** contient des fichiers comprenant une liste des mèmes que l'on passera en entrée du script de filtrage
 - **final_output** contient les fichiers générés par le script de filtrage : un fichier html et un fichier json à chaque lancement du script
-- un script, *create_query.py*, qui permet d'ajouter des recherches dans le fichier already_extracted.json à partir d'une nouvelle liste de mèmes
+- deux scripts, *create_query_basique.py* et *create_query_avance.py* , qui permettent d'ajouter des recherches dans le fichier already_extracted.json correspondant à partir d'une nouvelle liste de mèmes : les requêtes basiques sont juste les mèmes auxquels on a retiré les ponctuations, les requêtes avancées conservent les mots pleins et les séquences de mots vide d'un taille de 3 tokens minimum
 
 Le répertoire **modules** comprend le module *tools.py* contenant les fonctions appelées par les deux scripts principaux.
 
+Le répertoire principal comprend également le script *compare_results* qui compare les sorties des requêtes 'basiques' et 'avancées' d'une même liste de mèmes et crée un fichier Markdown en sortie, ainsi qu'un script Bash permettant de lancer le script *extract_tweets_KW* sur les deux types de requêtes et de lancer à la suite le script *compare_results* sur les deux fichiers de résultats générés.

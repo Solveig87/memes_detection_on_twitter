@@ -47,11 +47,11 @@ twitter_error = False
 
 write_log("data/log_data/extract.log", "----START----")
 msg = "Already Done (I) :", len(already_done)
-print(msg)
+#print(msg)
 write_log("data/log_data/extract.log", msg)
 
 for date_last, Q in liste_KW:
-  print(date_last, Q)
+  #print(date_last, Q)
   #write_log("data/log_data/extract.log", f"{date_last}:{Q}")
   write_log("data/log_data/extract.log", "%s:%s"%(date_last, Q))
   try:
@@ -61,7 +61,7 @@ for date_last, Q in liste_KW:
       ID = tweet._json["id_str"]
       if ID in already_done:
         #print(f"->Already done : {ID}")
-        print("->Already done : %s"%ID)
+        #print("->Already done : %s"%ID)
         break
       else:
         already_done.append(ID)
@@ -72,23 +72,24 @@ for date_last, Q in liste_KW:
       L.append({"date":date, "user":name, "tweet":txt, "metadata":tweet._json, "query":Q})
       cpt+=1
       if cpt%100==0:
-        print("  ",txt)
+        #print("  ",txt)
         write_log("data/log_data/extract.log", re.sub("\n", "", txt))
-        print("  ",cpt)
+        #print("  ",cpt)
         #twitter_error = True
+        break
   except tweepy.TweepError as e:
-      print(e)
+      #print(e)
       write_log("data/log_data/extract.log", str(e))
       cpt_error+=1
       if "429" in str(e): #too many requests
         twitter_error=True
         break
-  print(cpt)
+  #print(cpt)
   if twitter_error==True:
     break
   dic_extracted[Q]=date_str
 
-print("Already Done(II):", len(already_done))
+#print("Already Done(II):", len(already_done))
 
 dic_extracted[Q]=date_str
 
@@ -98,8 +99,8 @@ write_file(options.tweets_id, json.dumps(already_done))
 
 msg =  "got %i tweets"%len(L)
 write_log("data/log_data/extract.log", msg)
-print(msg)
-print(cpt_error, "errors")
+#print(msg)
+#print(cpt_error, "errors")
 
 """Création d'un nouveau fichier de data"""
 import os
