@@ -13,7 +13,7 @@ def get_args():
 		  default="data/seeds/memes_seed.json",
                   help="name_seed", metavar="NAMESEED")
   parser.add_option("-d", "--path_data", dest="path_data",
-		  default="data/tweets_collectes/corpus_2021-05-10_0.json",
+		  default="data/tweets_collectes/corpus_2021-05-18_0.json",
                   help="Can be a json_file (see README) or a directory", 
                   metavar="PATH_DATA")
   parser.add_option("-v", "--verbose",

@@ -21,10 +21,10 @@ def get_args():
   from optparse import OptionParser
   parser = OptionParser()
   parser.add_option("-q", "--queries", dest="queries",
-		  default="data/log_data/already_extracted.json",
+		  default="data/log_data/already_extracted_basique.json",
                   help="queries", metavar="QUERIES")
   parser.add_option("-t", "--tweets_id", dest="tweets_id",
-		  default="data/log_data/already_done_tweets.json",
+		  default="data/log_data/already_done_tweets_basique.json",
                   help="list of tweets already collected", 
                   metavar="TWEETS_ID")
   (options, args) = parser.parse_args()
